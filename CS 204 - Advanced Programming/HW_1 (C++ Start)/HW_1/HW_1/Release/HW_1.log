@@ -1,0 +1,15 @@
+﻿Build started 12.03.2022 18:58:12.
+     1>Project "C:\Users\Emir\Desktop\Tüm Dersler\2.2\CS 204\Homeworks\HW_1\HW_1\HW_1\HW_1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D "WIN32" /D NDEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt emirasal_Asal_Emir_HW1.cpp
+         emirasal_Asal_Emir_HW1.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Emir\Desktop\Tüm Dersler\2.2\CS 204\Homeworks\HW_1\HW_1\Release\HW_1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Emir\Desktop\Tüm Dersler\2.2\CS 204\Homeworks\HW_1\HW_1\Release\HW_1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Emir\Desktop\Tüm Dersler\2.2\CS 204\Homeworks\HW_1\HW_1\Release\HW_1.lib" /MACHINE:X86 /SAFESEH Release\emirasal_Asal_Emir_HW1.obj
+         Generating code
+         Finished generating code
+         HW_1.vcxproj -> C:\Users\Emir\Desktop\Tüm Dersler\2.2\CS 204\Homeworks\HW_1\HW_1\Release\HW_1.exe
+     1>Done Building Project "C:\Users\Emir\Desktop\Tüm Dersler\2.2\CS 204\Homeworks\HW_1\HW_1\HW_1\HW_1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.55
