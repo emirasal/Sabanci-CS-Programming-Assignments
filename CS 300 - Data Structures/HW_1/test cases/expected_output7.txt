@@ -1,0 +1,32 @@
+Chicago
+Mobile
+Miami
+Atlanta
+Columbia
+Richmond
+Memphis
+Tucson
+Omaha
+Seattle
+Toronto
+Buffalo
+Houston
+Austin
+Detroit
+Nowhere
+Denver
+
+Miami, Atlanta, Columbia, Richmond
+Chicago, Mobile, Miami, Atlanta, Columbia, Richmond, Toronto, Buffalo, Detroit
+
+<None>
+Chicago, Mobile, Atlanta
+
+Chicago, Memphis, Tucson, Omaha, Detroit
+Chicago, Mobile, Atlanta, Memphis, Tucson, Omaha, Seattle, Toronto, Buffalo, Detroit, Denver
+
+<None>
+Chicago, Denver
+
+Toronto, Buffalo, Houston, Austin
+Chicago, Mobile, Atlanta, Columbia, Richmond, Memphis, Tucson, Toronto, Buffalo, Houston, Austin, Detroit, Nowhere

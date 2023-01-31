@@ -1,0 +1,699 @@
+#Organism/Name	TaxID	BioProject Accession	BioProject ID	Group	SubGroup	Size (Kb)	GC%	Host	Segmemts	Genes	Proteins	Release Date	Modify Date	Status
+Plasmavirus L2	46014		0	Other	Plasmaviridae	11.965	32	bacteria	 Unknown:NC_001447.1/L13696.1	14	14	1993/06/11	2020/12/20	Complete Genome
+Pseudoalteromonas phage PM2	2905728		0	Other	Corticoviridae	10.079	42.2	bacteria	 Unknown:NC_000867.1/AF155037.1	22	22	1999/07/13	2021/12/22	Complete Genome
+Circular ssDNA virus sp.	2805939	PRJNA418044	418044	unclassified viruses	unclassified	2.201	57.8	human,vertebrates	MG571900.1	-	2	2018/06/20	2018/06/20	Complete Genome
+Mushroom bacilliform virus	32625		0	Other	Barnaviridae	4.009	46.3	fungi	 Unknown:NC_001633.1/U07551.1	4	4	1994/10/08	2018/08/13	Complete Genome
+White spot syndrome virus	342409		0	Other	Nimaviridae	309.286	40.9	invertebrates	 Unknown:NC_003225.3/KT995472.1	177	177	2001/11/20	2018/08/14	Complete Genome
+Heterosigma akashiwo RNA virus	324900		0	Other	Marnaviridae	8.587	46.9	-	 Unknown:NC_005281.1/AY337486.1	1	1	2003/07/23	2018/08/13	Complete Genome
+Botrytis virus F	129395		0	Other	Gammaflexiviridae	6.827	53.4	fungi	 Unknown:NC_002604.1/AF238884.1	2	2	2000/10/14	2018/08/13	Complete Genome
+Ostreid herpesvirus 1	261939		0	Other	Malacoherpesviridae	207.439	38.7	-	 Unknown:NC_005881.2/AY509253.2	127	127	2004/02/02	2018/08/13	Complete Genome
+Hamiltonella phage APSE-1	2682836		0	Other	Other	36.524	43.9	bacteria	 Unknown:NC_000935.1/AF157835.1	54	54	1999/10/26	2021/12/22	Complete Genome
+Halorubrum phage HF2	33771		0	Other	Hafunaviridae	77.672	55.8	-	 Unknown:NC_003345.2/AF222060.2	132	126	2001/12/31	2021/10/11	Complete Genome
+Halophage HF1	2847106		0	Other	Hafunaviridae	75.898	55.8	-	 Unknown:NC_004927.2/AY190604.2	131	125	2003/06/30	2022/04/07	Complete Genome
+Strawberry mottle virus	167161		0	Other	Secoviridae	12.655	45.5772	land plants	 RNA 1:NC_003445.1/AJ311875.1;  RNA 2:NC_003446.1/AJ311876.1	2	2	2002/01/08	2018/08/13	Complete Genome
+Botrytis virus X	174142		0	Other	Alphaflexiviridae	6.966	54.6	fungi	 Unknown:NC_005132.1/AY055762.1	5	5	2003/10/01	2018/08/13	Complete Genome
+Chalara elegans RNA Virus 1	267285		0	Other	Totiviridae	5.31	52.6	fungi	 Unknown:NC_005883.1/AY561500.1	2	2	2004/03/23	2018/08/13	Complete Genome
+Strawberry latent ringspot virus	28351		0	Other	Secoviridae	11.338	45.5149	land plants	 RNA 1:NC_006964.1/AY860978.1;  RNA 2:NC_006965.1/AY860979.1	2	2	2005/01/29	2018/08/13	Complete Genome
+Human picobirnavirus	145856		0	Other	Picobirnaviridae	4.27	46.0452	human	 1:NC_007026.1/AB186897.1;  2:NC_007027.1/AB186898.1	3	3	2005/05/07	2018/08/13	Complete Genome
+Satsuma dwarf virus	47416		0	Other	Secoviridae	12.138	47.2522	land plants	 RNA 1:NC_003785.2/AB009958.2;  RNA 2:NC_003786.2/AB009959.2	2	2	1999/04/06	2018/08/13	Complete Genome
+Haloarcula hispanica virus SH1	326574		0	Other	Sphaerolipoviridae	30.889	68.4	archaea	 Unknown:NC_007217.1/AY950802.1	56	56	2005/07/05	2020/12/20	Complete Genome
+Aurantiochytrium single-stranded RNA virus 01	674971		0	Other	Marnaviridae	9.035	49.7	-	 Unknown:NC_007522.1/AB193726.1	2	2	2005/10/29	2018/08/13	Complete Genome
+Black raspberry necrosis virus	367301		0	Other	Secoviridae	13.945	47.0302	land plants	 RNA 1:NC_008182.1/DQ344639.1;  RNA 2:NC_008183.1/DQ344640.1	2	2	2006/05/25	2018/08/13	Complete Genome
+Citrus leprosis virus C	347219		0	Other	Kitaviridae	13.731	41.7101	land plants	 RNA 1:NC_008169.1/DQ352194.1;  RNA 2:NC_008170.1/DQ352195.1	6	6	2006/04/24	2018/08/13	Complete Genome
+White bream virus	405554		0	Other	Tobaniviridae	26.66	43.3	vertebrates	 Unknown:NC_008516.1/DQ898157.1	5	5	2006/10/07	2018/08/13	Complete Genome
+Tomato torrado virus	370833		0	Other	Secoviridae	13.211	44.1182	land plants	 RNA 1:NC_009013.1/DQ388879.1;  RNA 2:NC_009032.1/DQ388880.1	3	3	2006/12/31	2018/08/13	Complete Genome
+Acidianus bottle-shaped virus	437444		0	Other	Ampullaviridae	23.814	34.6	archaea	 Unknown:NC_009452.1/EF432053.1	57	57	2007/04/25	2020/12/20	Complete Genome
+Pyrococcus abyssi virus 1	425386		0	unclassified viruses	unclassified	18.098	47.2	archaea	 Unknown:NC_009597.1/EF071488.1	25	25	2007/06/09	2020/12/20	Complete Genome
+Marine RNA virus SOG	439014		0	Other	Other	4.449	51.7	-	 Unknown:NC_009756.1/EF198240.1	3	3	2007/07/15	2018/08/13	Complete Genome
+Marine RNA virus JP-A	439015		0	Other	Marnaviridae	9.236	41.3	-	 Unknown:NC_009757.1/EF198241.1	2	2	2007/07/15	2018/08/13	Complete Genome
+Marine RNA virus JP-B	439016		0	Other	Marnaviridae	8.926	37.6	-	 Unknown:NC_009758.1/EF198242.1	2	2	2007/07/15	2018/08/13	Complete Genome
+Gill-associated virus	96491		0	Other	Roniviridae	26.253	46.2	invertebrates	 Unknown:NC_010306.1/AF227196.2	-	5	2000/07/13	2018/08/13	Complete Genome
+Tomato marchitez virus	470166		0	Other	Secoviridae	12.135	42.0809	land plants	 RNA 1:NC_010987.1/EF681764.1;  RNA 2:NC_010988.1/EF681765.1	3	3	2007/12/14	2018/08/13	Complete Genome
+Ourmia melon virus	186786		0	Other	Botourmiaviridae	4.852	51.5204	land plants	 RNA 1:NC_011068.1/EU770623.1;  RNA 2:NC_011069.1/EU770624.1;  RNA 3:NC_011070.1/EU770625.1	3	3	2008/07/05	2018/08/13	Complete Genome
+Epirus cherry virus	544686		0	Other	Botourmiaviridae	4.757	53.0887	land plants	 RNA 1:NC_011065.1/EU770620.1;  RNA 2:NC_011066.1/EU770621.1;  RNA 3:NC_011067.1/EU770622.1	3	3	2008/07/05	2018/08/13	Complete Genome
+Sputnik virophage	543939		0	Other	Lavidaviridae	18.343	27	protozoa	 Unknown:NC_011132.1/EU606015.1	21	21	2008/08/06	2020/12/20	Complete Genome
+Poinsettia latent virus	305785		0	Other	Solemoviridae	4.652	45.8	land plants	 Unknown:NC_011543.1/AJ867490.1	4	4	2004/12/14	2018/08/13	Complete Genome
+Nyavirus midwayense	644609		0	Other	Nyamiviridae	11.752	50.4	invertebrates	 Unknown:NC_012702.1/FJ554525.1	6	6	2009/05/18	2018/08/13	Complete Genome
+Nyavirus nyamaniniense	644610		0	Other	Nyamiviridae	11.631	52.3	invertebrates	 Unknown:NC_012703.1/FJ554526.1	6	6	2009/05/18	2018/08/13	Complete Genome
+Vibrio phage douglas 12A4	573171	PRJNA39215	39215	Other	Podoviridae	57.611	39	bacteria	 Unknown:NC_021068.1/HQ316580.1	75	75	2013/03/11	2020/12/20	Complete Genome
+Vibrio phage helene 12B3	573173	PRJNA39217	39217	Other	Myoviridae	135.982	37.6	bacteria	 Unknown:NC_021067.1/HQ316579.1	265	263	2013/03/11	2020/12/20	Complete Genome
+Vibrio phage martha 12B12	573175	PRJNA39219	39219	Other	Myoviridae	33.277	45.8	bacteria	 Unknown:NC_021070.1/HQ316581.1	51	51	2013/03/11	2021/10/12	Complete Genome
+Wheat yellow dwarf virus-GPV	572239		0	Other	Solemoviridae	5.673	49.5	land plants	 Unknown:NC_012931.1/FM865413.1	7	7	2009/07/07	2018/08/13	Complete Genome
+Salivirus NG-J1	651733		0	Other	Picornaviridae	7.982	56.7	human,vertebrates	 Unknown:NC_012957.1/GQ179640.3	1	1	2009/06/17	2018/08/13	Complete Genome
+Drosophila A virus	595895		0	Other	Other	4.806	47.6	invertebrates	 Unknown:NC_012958.1/FJ150422.1	2	2	2009/07/09	2018/08/13	Complete Genome
+Kalanchoe latent virus	132477		0	Other	Betaflexiviridae	8.517	46	land plants	 Unknown:NC_013006.1/FJ531634.1	7	7	2009/07/12	2018/08/13	Complete Genome
+Carrot yellow leaf virus	656190		0	Other	Closteroviridae	16.354	45.1	land plants	 Unknown:NC_013007.1/FJ869862.1	10	10	2009/07/11	2018/08/13	Complete Genome
+Sclerotinia sclerotiorum partitivirus S	659497		0	Other	Partitiviridae	3.726	44.145	fungi	 RNA 1:NC_013014.1/GQ280377.1;  RNA 2:NC_013015.1/GQ280378.1	2	2	2009/07/21	2018/08/13	Complete Genome
+Aedes flavivirus	390845		0	Other	Flaviviridae	11.064	50.1	invertebrates	 Unknown:NC_012932.1/AB488408.1	1	2	2009/07/08	2019/05/24	Complete Genome
+Okra leaf curl virus	163654		0	Other	Geminiviridae	2.386	43.3	land plants	 DNA A:NC_013017.1/FM164726.1	6	6	2009/06/02	2018/08/13	Complete Genome
+Sunn hemp leaf distortion virus	579113		0	Other	Geminiviridae	2.774	42.9	land plants	 DNA A:NC_013019.1/FJ455449.1	6	2	2009/02/09	2018/08/13	Complete Genome
+Ipomoea yellow vein virus	653358		0	Other	Geminiviridae	2.791	44.3	land plants	 DNA A:NC_013022.2/EU839576.2	6	6	2009/06/13	2018/08/13	Complete Genome
+Human papillomavirus 116	915428		0	Other	Papillomaviridae	7.184	38.5	human	NC_013035.1/FJ804072.1	7	7	2009/07/28	2018/08/13	Complete Genome
+Anatid alphaherpesvirus 1	104388		0	Other	Herpesviridae	160.649	44.9	vertebrates	JF999965.1	77	77	2011/09/06	2011/09/06	Complete Genome
+Burkholderia phage KS9	335797		0	Other	Siphoviridae	39.896	60.7	bacteria	 Unknown:NC_013055.1/FJ982340.1	50	50	2009/08/03	2021/10/12	Complete Genome
+Morogoro mammarenavirus	573900		0	Other	Arenaviridae	10.59	43.05	vertebrates	 S:NC_013057.1/EU914103.1;  L:NC_013058.1/EU914104.1	4	4	2009/07/31	2018/08/13	Complete Genome
+Salmonella phage g341c	590739		0	Other	Other	40.975	47.4	bacteria	 Unknown:NC_013059.1/FJ000341.1	68	68	2009/08/01	2021/10/12	Complete Genome
+Astrovirus VA1	645687		0	Other	Astroviridae	6.586	41.9	human,vertebrates	 Unknown:NC_013060.1/FJ973620.1	3	3	2009/08/04	2018/08/13	Complete Genome
+Faba bean necrotic stunt virus	283824		0	Other	Nanoviridae	7.88	39.0621	land plants	 DNA C:GQ274031.1;  DNA U4:GQ274032.1;  DNA R:GQ274033.1;  DNA U1:GQ274034.1;  DNA M:GQ274035.1;  DNA S:GQ274036.1;  DNA U2:GQ274037.1;  DNA N:GQ274038.1	-	8	2010/01/18	2010/01/18	Complete Genome
+Stretch Lagoon orbivirus	559180		0	Other	Sedoreoviridae	6.725	42.9116	invertebrates	 1:NC_012754.1/EU718676.1;  2:NC_012755.1/EU718677.1	2	2	2009/05/26	2018/08/13	Chromosome
+Primula malacoides virus China/Mar2007	479713		0	Other	Partitiviridae	4.734	40.9864	land plants	 RNA 1:NC_013109.1/EU195326.1;  RNA 2:NC_013110.1/EU195327.1	2	2	2007/11/04	2018/08/13	Complete Genome
+Cassava virus C	561576		0	Other	Botourmiaviridae	4.835	50.7801	land plants	 RNA 1:NC_013111.1/FJ157981.1;  RNA 2:NC_013112.1/FJ157982.1;  RNA 3:NC_013113.1/FJ157983.1	3	3	2008/09/24	2018/08/13	Complete Genome
+Drosophila melanogaster sigmavirus AP30	666363		0	Other	Rhabdoviridae	12.39	45.1	invertebrates	 Unknown:NC_013135.1/AM689309.3	16	6	2007/09/17	2018/08/17	Complete Genome
+Staphylococcus phage P954	668618		0	Other	Other	40.761	34	bacteria	 Unknown:NC_013195.1/GQ398772.1	69	69	2009/09/01	2021/10/12	Complete Genome
+Rattus norvegicus papillomavirus 1	664730		0	Other	Papillomaviridae	7.378	46.6	vertebrates	GQ180114.1	7	6	2009/08/31	2009/10/21	Complete Genome
+Turnip ringspot virus	392504		0	Other	Secoviridae	10.067	41.4625	land plants	 RNA 1:NC_013218.1/FJ712026.1;  RNA 2:NC_013219.1/FJ712027.1	2	2	2009/09/07	2018/08/13	Complete Genome
+Canis familiaris papillomavirus 6	1513269		0	Other	Papillomaviridae	8.242	40.2	vertebrates	 Unknown:NC_013237.1/FJ492744.1	7	7	2009/09/14	2018/08/13	Complete Genome
+Tomato infectious chlorosis virus	52135		0	Other	Closteroviridae	16.184	37.0777	land plants	 RNA 1:NC_013258.1/FJ815440.1;  RNA 2:NC_013259.1/FJ815441.1	11	11	2009/07/31	2018/08/13	Complete Genome
+Canna yellow streak virus	433462		0	Other	Potyviridae	9.502	41.4	land plants	 Unknown:NC_013261.1/	2	2	2009/09/23	2018/08/13	Complete Genome
+Pelargonium vein banding virus	671126		0	Other	Caulimoviridae	7.586	48.6	land plants	 Unknown:NC_013262.1/GQ428155.1	3	3	2009/09/20	2018/08/13	Complete Genome
+Vibrio phage henriette 12B8	573174	PRJNA40641	40641	Other	Myoviridae	107.218	41	bacteria	 Unknown:NC_021073.1/HQ316582.1	156	154	2013/03/11	2020/12/20	Complete Genome
+Melandrium yellow fleck virus	545259		0	Other	Bromoviridae	8.535	41.7441	land plants	 RNA 1:AB444583.1;  RNA1:NC_013266.1/;  RNA 2:AB444584.1;  RNA2:NC_013267.1/;  RNA 3:AB444585.1;  RNA3:NC_013268.1/	8	8	2009/09/26	2020/05/28	Complete Genome
+Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)	449133		0	Other	Sedoreoviridae	19.405	42.1526	invertebrates,vertebrates	 1:NC_013396.1/AM744977.1;  2:NC_013397.1/AM744978.1;  3:NC_013398.1/AM744979.1;  4:NC_013399.1/AM744980.1;  5:NC_013400.1/AM744981.1;  6:NC_013401.1/AM744982.1;  7:NC_013402.1/AM744983.1;  8:NC_013403.1/AM744984.1;  9:NC_013404.1/AM744985.1;  10:NC_013405.1/AM744986.1	10	10	2009/09/29	2018/08/13	Complete Genome
+Tomato leaf curl Sulawesi virus	634441		0	Other	Geminiviridae	2.751	41.3	land plants	 DNA A:NC_013413.1/FJ237617.1	6	6	2009/09/30	2018/08/13	Complete Genome
+Velvet bean severe mosaic virus	667119		0	Other	Geminiviridae	5.39	40.2789	land plants	 DNA A:NC_013414.1/FN543425.1;  DNA B:NC_013415.1/FN543426.1	9	9	2009/10/06	2018/08/13	Complete Genome
+HMO Astrovirus A	682382		0	Other	Astroviridae	6.534	43.5	human	 Unknown:NC_013443.1/GQ415660.1	3	3	2009/10/24	2018/08/13	Complete Genome
+Sclerotinia sclerotiorum hypovirulence associated DNA virus 1	664785		0	Other	Genomoviridae	2.166	47.2	fungi	 Unknown:NC_013116.1/GQ365709.1	2	2	2009/08/17	2018/08/13	Complete Genome
+Francolinus leucoscepus papillomavirus 1	485362		0	Other	Papillomaviridae	7.498	52.9	-	 Unknown:NC_013117.1/EU188799.1	8	8	2009/08/17	2018/08/13	Complete Genome
+Japanese holly fern mottle virus	659660		0	Other	Mayoviridae	9.235	46.156	land plants	 RNA 1:NC_013133.1/FJ907327.1;  RNA 2:NC_013134.1/FJ907328.1	5	5	2009/08/20	2018/08/13	Complete Genome
+Atlantic cod nervous necrosis virus	179708		0	Other	Nodaviridae	4.288	53.6305	vertebrates	 RNA 2:EF433468.1;  RNA 1:EF433472.1	-	3	2008/02/28	2021/10/25	Complete Genome
+Tiger puffer nervous necrosis virus	43764		0	Other	Nodaviridae	4.534	52.5686	-	 RNA 1:NC_013460.1/EU236148.1;  RNA 2:NC_013461.1/EU236149.1	3	3	2009/11/01	2018/08/13	Complete Genome
+Saccharum streak virus	683179		0	Other	Geminiviridae	2.744	53.5	land plants	 Unknown:NC_013464.1/GQ273988.1	3	3	2009/10/31	2018/08/13	Complete Genome
+Vibrio phage SIO-2	700512	PRJNA42177	42177	Other	Siphoviridae	81.184	45	bacteria	 Unknown:NC_016567.1/HQ316604.1	116	115	2011/11/19	2020/12/20	Complete Genome
+Synechococcus phage S-SSM4	536466	PRJNA42181	42181	Other	Kyanoviridae	182.801	39.4	bacteria	 Unknown:NC_020875.1/HQ316583.1	223	220	2013/03/10	2021/10/12	Complete Genome
+Cyanophage SS120-1	616674	PRJNA42183	42183	Other	Autographiviridae	46.997	40.5	bacteria	 Unknown:NC_020872.1/HQ316584.1	53	52	2013/03/10	2020/12/20	Complete Genome
+Acidianus spindle-shaped virus 1	693629		0	Other	Fuselloviridae	24.186	37.7	archaea	 Unknown:NC_013585.1/FJ870917.1	38	38	2009/11/25	2021/10/11	Complete Genome
+Sulfolobus spindle-shaped virus 6	693627		0	Other	Fuselloviridae	15.684	38.2	archaea	 Unknown:NC_013587.1/FJ870915.1	33	33	2009/11/25	2021/10/12	Complete Genome
+Sulfolobus spindle-shaped virus 7	693628		0	Other	Fuselloviridae	17.602	39	archaea	 Unknown:NC_013588.1/FJ870916.1	33	33	2009/11/25	2021/10/12	Complete Genome
+Felid alphaherpesvirus 1	10334		0	Other	Herpesviridae	135.797	45.8	vertebrates	 Unknown:NC_013590.2/FJ478159.2	77	77	2009/11/30	2019/06/04	Complete Genome
+Cotton leaf curl Gezira alphasatellite	679536		0	Other	Alphasatellitidae	1.367	40.5	land plants	HG530543.1	1	1	2014/04/03	2014/04/03	Complete Genome
+Sweet potato leaf curl Canary virus	652718		0	Other	Geminiviridae	2.807	44.6	land plants	 DNA A:NC_013465.1/FJ529203.1	6	6	2009/06/17	2018/08/13	Complete Genome
+Sweet potato leaf curl Lanzarote virus	574890		0	Other	Geminiviridae	2.814	45	land plants	 DNA A:NC_013467.1/EU839579.2	6	6	2009/06/13	2018/08/13	Complete Genome
+Drosophila melanogaster totivirus SW-2009a	663282		0	Other	Totiviridae	6.78	42.3	invertebrates	 Unknown:NC_013499.1/GQ342961.1	2	2	2009/11/08	2018/08/13	Complete Genome
+Butterbur mosaic virus	666859		0	Other	Betaflexiviridae	8.662	44.5	-	 Unknown:NC_013527.1/AB517596.1	6	6	2009/11/20	2018/08/13	Complete Genome
+Buggy Creek virus	48541		0	Other	Togaviridae	11.423	48.5	invertebrates,vertebrates	HM147986.1	-	2	2012/02/27	2012/02/27	Complete Genome
+Escherichia phage D108	665033		0	Other	Other	37.235	51.8	bacteria	 Unknown:NC_013594.1/GQ357916.1	57	57	2009/09/15	2021/10/12	Complete Genome
+Streptococcus phage ALQ13.2	2919543		0	Other	Other	35.525	39.4	bacteria	 Unknown:NC_013598.1/FJ226752.1	44	44	2009/10/06	2022/03/23	Complete Genome
+Xylella phage Xfas53	670252		0	Other	Podoviridae	36.674	56.8	bacteria	 Unknown:NC_013599.1/GQ421471.1	45	45	2009/09/07	2021/10/12	Complete Genome
+Sodalis phage SO1	673375		0	Other	Other	45.169	54.6	bacteria	 Unknown:NC_013600.1/GQ502199.1	59	59	2009/09/22	2021/10/12	Complete Genome
+Pseudomonas phage phi-2	693582		0	Other	Autographiviridae	43.144	58.9	bacteria	 Unknown:NC_013638.1/FN594518.1	43	43	2009/12/10	2020/12/20	Complete Genome
+Tomato leaf curl Cameroon virus	693894		0	Other	Geminiviridae	2.808	42.2	land plants	 DNA A:NC_013639.1/FM210278.1	7	9	2009/03/09	2018/08/13	Complete Genome
+Sweet potato leaf curl Bengal virus	693892		0	Other	Geminiviridae	2.823	44.5	land plants	 DNA A:NC_013640.2/FN432356.2	6	6	2009/09/17	2018/08/13	Complete Genome
+Tomato yellow leaf curl Thailand betasatellite	693897		0	Other	Tolecusatellitidae	1.337	37.3	land plants	 Unknown:NC_004903.1/AJ566746.1	1	1	2003/06/17	2018/08/13	Complete Genome
+Klebsiella phage KP32	674082		0	Other	Autographiviridae	41.119	52.4	bacteria	 Unknown:NC_013647.1/GQ413937.1	44	44	2009/11/10	2021/10/12	Complete Genome
+Klebsiella phage KP34	674081		0	Other	Autographiviridae	43.809	54.1	bacteria	 Unknown:NC_013649.2/GQ413938.2	57	57	2009/11/10	2021/10/12	Complete Genome
+Mycobacterium phage ET08	663554		0	Other	Other	155.445	64.6	bacteria	 Unknown:NC_013650.1/GQ303260.1	253	218	2009/09/10	2022/01/05	Complete Genome
+Vibrio phage N4	644563		0	Other	Autographiviridae	38.497	42.8	bacteria	NC_013651.1/FJ409640.1	47	47	2009/10/31	2020/12/20	Complete Genome
+Enterococcus phage phiFL3A	673837		0	Other	Other	39.576	34.5	bacteria	 Unknown:NC_013648.1/GQ478086.1	64	64	2009/12/08	2021/10/12	Complete Genome
+Enterococcus phage phiFL1A	673832		0	Other	Other	38.764	34	bacteria	 Unknown:NC_013646.1/GQ478081.1	61	61	2009/12/08	2021/10/12	Complete Genome
+Streptococcus phage Abc2	2919544		0	Other	Other	34.882	39	bacteria	 Unknown:NC_013645.1/FJ236310.1	48	48	2009/10/06	2022/03/23	Complete Genome
+Enterococcus phage phiFL4A	673839		0	Other	Siphoviridae	37.856	37.8	bacteria	 Unknown:NC_013644.1/GQ478088.1	55	55	2009/12/08	2021/10/12	Complete Genome
+Enterococcus phage phiFL2A	673835		0	Other	Other	36.27	34.6	bacteria	 Unknown:NC_013643.1/GQ478084.1	63	63	2009/12/08	2021/10/12	Complete Genome
+Anguillid herpesvirus 1	150286		0	Other	Alloherpesviridae	248.526	53	vertebrates	 Unknown:NC_013668.3/FJ940765.3	133	134	2009/12/21	2018/08/13	Complete Genome
+Shigella phage Ag3	637730		0	Other	Ackermannviridae	158.006	50.4	bacteria	 Unknown:NC_013693.1/FJ373894.1	220	216	2009/09/23	2020/12/20	Complete Genome
+Mycobacterium phage Peaches	2919546		0	Other	Other	51.376	63.9	bacteria	NC_013694.1/GQ303263.1	86	86	2009/09/10	2022/03/23	Complete Genome
+Tomato leaf curl Hainan virus	664980		0	Other	Geminiviridae	2.756	43.9	land plants	 DNA A:KF150142.1	6	6	2013/09/21	2013/09/21	Complete Genome
+Delftia phage PhiW-14	665032		0	Other	Other	157.486	56.3	bacteria	 Unknown:NC_013697.1/GQ357915.1	238	236	2009/09/09	2020/12/20	Complete Genome
+Clavibacter phage CMP1	686439		0	Other	Other	58.652	57	bacteria	 Unknown:NC_013698.1/GQ241246.1	74	74	2009/11/03	2020/12/20	Complete Genome
+Pseudomonas phage LIT1	655098		0	Other	Schitoviridae	72.544	55	bacteria	 Unknown:NC_013692.1/FN422399.1	90	90	2009/09/22	2020/12/20	Complete Genome
+Pseudomonas phage LUZ7	655097		0	Other	Schitoviridae	74.901	53.2	bacteria	 Unknown:NC_013691.1/FN422398.1	115	115	2009/09/22	2020/12/20	Complete Genome
+Marseillevirus marseillevirus	694581		0	Other	Marseilleviridae	368.454	44.7	protozoa	 Unknown:NC_013756.1/GU071086.1	457	428	2010/01/04	2020/12/20	Complete Genome
+Haloarcula hispanica pleomorphic virus 1	710112		0	Other	Pleolipoviridae	8.082	55.8	archaea	 Unknown:NC_013758.1/GU321093.1	8	8	2010/01/25	2022/01/24	Complete Genome
+Pseudalatia unipuncta granulovirus	36355		0	Other	Baculoviridae	176.677	39.8	invertebrates	 Unknown:NC_013772.1/EU678671.1	183	183	2008/10/31	2021/03/12	Complete Genome
+Porcine circovirus type 1/2a	720569		0	Other	Circoviridae	1.767	49.1	vertebrates	NC_013774.1/FJ655418.1	2	2	2009/12/31	2018/08/13	Complete Genome
+Olive latent virus 3	626962		0	Other	Tymoviridae	7.148	56.2	-	 Unknown:NC_013920.1/FJ444852.2	4	4	2009/06/01	2018/08/13	Complete Genome
+Mycobacterium phage Ardmore	2902838		0	Other	Other	52.141	61.5	bacteria	 Unknown:NC_013936.1/GU060500.1	87	87	2010/03/14	2022/01/31	Complete Genome
+Phlebiopsis gigantea mycovirus dsRNA 1	349681		0	Other	Totiviridae	11.563	57	fungi	 Unknown:NC_013999.1/AM111096.3	1	2	2007/10/11	2018/08/13	Complete Genome
+Klebsiella phage KP15	707757		0	Other	Straboviridae	174.436	41.8	bacteria	 Unknown:NC_014036.1/GU295964.1	257	258	2010/04/05	2020/12/20	Complete Genome
+Sulfitobacter phage pCB2047-C	754043	PRJNA47511	47511	Other	Podoviridae	40.931	59	bacteria	 Unknown:NC_020856.2/HQ317384.2	73	73	2013/03/16	2021/10/12	Complete Genome
+Sulfitobacter phage pCB2047-A	754045	PRJNA47513	47513	Other	Podoviridae	40.929	58.8	bacteria	 Unknown:NC_020858.2/HQ332142.2	72	72	2013/03/24	2021/10/12	Complete Genome
+Sulfitobacter phage phiCB2047-B	754046	PRJNA47515	47515	Other	Schitoviridae	74.485	43	bacteria	 Unknown:NC_020862.2/HQ317387.2	92	75	2013/03/17	2020/12/20	Complete Genome
+Rhodobacter phage RcNL1	754047	PRJNA47517	47517	Other	Siphoviridae	62.507	65.2	bacteria	JF974309.1	91	89	2012/05/30	2012/05/30	Chromosome
+Psychrobacter phage pOW20-A	754048	PRJNA47519	47519	Other	Myoviridae	40.803	44.1	bacteria	 Unknown:NC_020841.1/JF974295.1	71	71	2013/03/25	2021/10/12	Complete Genome
+Loktanella phage pCB2051-A	754044	PRJNA47541	47541	Other	Casjensviridae	56.958	55	bacteria	 Unknown:NC_020853.1/HQ632859.1	77	76	2013/03/24	2020/12/20	Complete Genome
+Vibrio phage pYD21-A	754049	PRJNA47543	47543	Other	Siphoviridae	46.917	43.9	bacteria	 Unknown:NC_020846.1/JF974287.1	75	74	2013/03/19	2020/12/20	Complete Genome
+Aeromonas phage pIS4-A	754050	PRJNA47545	47545	Other	Other	47.624	47.3	bacteria	NC_042037.1/JF974294.1	80	78	2013/06/10	2021/10/11	Complete Genome
+Vibrio phage pYD38-A	754051	PRJNA47547	47547	Other	Other	47.552	47.3	bacteria	 Unknown:NC_021534.1/JF974312.1	80	77	2013/06/10	2021/10/11	Complete Genome
+Pseudoalteromonas phage pYD6-A	754052	PRJNA47549	47549	Other	Schitoviridae	76.802	38.7	bacteria	 Unknown:NC_020849.1/JF974296.1	101	99	2013/03/25	2020/12/20	Complete Genome
+Paenibacillus phage PG1	754053	PRJNA47551	47551	Other	Siphoviridae	37.644	42.4	bacteria	 Unknown:NC_021558.1/HQ332138.1	70	67	2013/06/10	2021/10/12	Complete Genome
+Rhizobium phage RR1-A	929833	PRJNA47553	47553	Other	Myoviridae	53.102	57.2	bacteria	 Unknown:NC_021560.1/JF974314.1	69	68	2013/06/10	2021/10/12	Complete Genome
+Rhodobacter phage RC1	754055	PRJNA47555	47555	Other	Siphoviridae	39.573	62.3	bacteria	 Unknown:NC_020839.1/JF974308.1	56	56	2013/03/25	2021/10/12	Complete Genome
+Rhodovulum phage RS1	754056	PRJNA47557	47557	Other	Siphoviridae	40.231	62.1	bacteria	 Unknown:NC_020866.1/JF974307.1	57	56	2013/03/25	2021/10/12	Complete Genome
+Vibrio phage VD1	754057	PRJNA47559	47559	Other	Peduoviridae	81.013	44.4	bacteria	JF974301.1	118	117	2013/06/10	2013/06/10	Chromosome
+Vibrio phage PWH3a-P1	754058	PRJNA47561	47561	Other	Myoviridae	129.155	35.5	bacteria	 Unknown:NC_020863.1/HQ634156.1	210	209	2013/03/24	2020/12/20	Complete Genome
+California sea lion polyomavirus 1	715223		0	Other	Polyomaviridae	5.112	42.7	vertebrates	NC_013796.1/GQ331138.1	6	6	2010/02/07	2018/08/13	Complete Genome
+Croton yellow vein mosaic alphasatellite	713089		0	Other	Alphasatellitidae	1.347	40	land plants	 Unknown:NC_013801.1/FN658711.1	1	1	2010/02/08	2018/08/13	Complete Genome
+Cotton leaf curl Burewala betasatellite	713092		0	Other	Tolecusatellitidae	1.354	40.5	land plants	 Unknown:NC_013802.1/FN658722.1	1	1	2010/02/08	2018/08/13	Complete Genome
+Cotton leaf curl Burewala alphasatellite	713091		0	Other	Alphasatellitidae	1.366	42.3	land plants	 Unknown:NC_013803.1/FN658727.1	1	1	2010/02/08	2018/08/13	Complete Genome
+Pseudocowpox virus	129726		0	Other	Poxviridae	145.289	65	human,vertebrates	 Unknown:NC_013804.1/GQ329670.1	134	134	2010/02/16	2020/12/20	Complete Genome
+Synechococcus phage S-CBP4	754059	PRJNA47563	47563	Other	Autographiviridae	41.824	44.3	bacteria	NC_048183.1/HM559717.1	50	48	2013/02/26	2021/10/12	Complete Genome
+Synechococcus phage S-CBP42	461711		0	Other	Autographiviridae	45.218	54.6	bacteria	 Unknown:NC_029031.1/KC310805.1	57	51	2014/10/24	2020/12/20	Complete Genome
+Silicibacter phage DSS3-P1	754060	PRJNA47567	47567	Other	Casjensviridae	60.467	63.8	bacteria	HQ632855.1	79	78	2011/11/19	2016/07/25	Chromosome
+Micromonas pusilla virus 12T	755272	PRJNA47583	47583	Other	Phycodnaviridae	205.622	39.8	eukaryotic algae	 Unknown:NC_020864.1/HQ632826.1	265	253	2013/03/24	2020/12/20	Complete Genome
+Phaeocystis globosa virus 12T	755273	PRJNA47585	47585	Other	Phycodnaviridae	460.002	32	eukaryotic algae	HQ634147.1	449	439	2011/11/16	2016/07/25	Chromosome
+Phaeocystis globosa virus 14T	755274	PRJNA47587	47587	Other	Phycodnaviridae	452.892	32	eukaryotic algae	HQ634144.1	444	433	2011/11/21	2011/11/21	Chromosome
+Synechococcus phage S-CBM2	351708	PRJNA47591	47591	Other	Myoviridae	180.892	39.7	bacteria	HQ633061.1	212	197	2012/05/30	2012/05/30	Chromosome
+Ostreococcus lucimarinus virus OlV3	754062	PRJNA47607	47607	Other	Phycodnaviridae	191.242	41.4	eukaryotic algae	HQ633060.1	265	248	2012/05/30	2012/05/30	Chromosome
+Ostreococcus lucimarinus virus OlV4	754063	PRJNA47609	47609	Other	Phycodnaviridae	216.925	40.3	eukaryotic algae	JF974316.1	319	299	2011/11/23	2016/07/25	Chromosome
+Ostreococcus lucimarinus virus OlV5	754064	PRJNA47611	47611	Other	Phycodnaviridae	186.468	41.6	eukaryotic algae	 Unknown:NC_020852.1/HQ632827.1	263	251	2013/03/24	2020/12/20	Complete Genome
+Ostreococcus lucimarinus virus OlV6	754065	PRJNA47613	47613	Other	Phycodnaviridae	184.949	41.7	eukaryotic algae	HQ633059.1	257	248	2012/05/30	2012/05/30	Chromosome
+Synechococcus phage S-CAM1	754037	PRJNA47615	47615	Other	Kyanoviridae	198.013	43	bacteria	 Unknown:NC_020837.1/HQ634177.1	241	231	2013/03/23	2021/10/12	Complete Genome
+Halorubrum virus CGphi46	754066	PRJNA47629	47629	Other	Graaviviridae	39.784	65.1	archaea	 Unknown:NC_021537.1/HQ332141.1	55	55	2013/06/10	2021/10/11	Complete Genome
+Salicola phage CGphi29	754067	PRJNA47631	47631	Other	Siphoviridae	40.695	56.4	bacteria	 Unknown:NC_020844.1/HQ634153.1	64	64	2013/03/24	2021/10/12	Complete Genome
+Emiliania huxleyi virus PS401	754068	PRJNA47633	47633	Other	Phycodnaviridae	301.52	60.1	eukaryotic algae	HQ634146.1	329	327	2011/11/21	2016/07/25	Chromosome
+Synechococcus phage S-RIP2	754040	PRJNA47635	47635	Other	Autographiviridae	45.728	47.3	bacteria	 Unknown:NC_020838.1/HQ317389.1	57	54	2013/03/16	2021/10/12	Complete Genome
+Synechococcus phage S-RIP1	754041	PRJNA47637	47637	Other	Autographiviridae	44.892	42.9	bacteria	 Unknown:NC_020867.1/HQ317388.1	61	55	2013/03/16	2021/10/12	Complete Genome
+Synechococcus phage S-IOM18	754039	PRJNA47645	47645	Other	Kyanoviridae	171.797	40.6	bacteria	 Unknown:NC_021536.1/HQ317383.1	219	209	2013/06/10	2021/10/12	Complete Genome
+Synechococcus phage S-SKS1	754042	PRJNA47647	47647	Other	Other	208.007	36	bacteria	 Unknown:NC_020851.1/HQ633071.1	302	281	2013/03/24	2021/10/12	Complete Genome
+Emiliania huxleyi virus 201	181210	PRJNA47649	47649	Other	Phycodnaviridae	407.301	40.5	eukaryotic algae	JF974311.1	454	447	2011/11/27	2012/02/22	Chromosome
+Emiliania huxleyi virus 202	181211	PRJNA47651	47651	Other	Phycodnaviridae	407.516	40.3	eukaryotic algae	HQ634145.1	487	484	2011/11/19	2012/02/03	Chromosome
+Emiliania huxleyi virus 203	181212	PRJNA47653	47653	Other	Phycodnaviridae	400.52	40.1	eukaryotic algae	JF974291.1	468	461	2011/09/21	2011/11/28	Chromosome
+Emiliania huxleyi virus 207	181214	PRJNA47657	47657	Other	Phycodnaviridae	421.891	40.5	eukaryotic algae	JF974317.1	476	468	2011/09/28	2012/02/22	Chromosome
+Emiliania huxleyi virus 208	181215	PRJNA47659	47659	Other	Phycodnaviridae	411.003	40.4	eukaryotic algae	JF974318.1	459	448	2011/09/28	2012/02/22	Chromosome
+Emiliania huxleyi virus 88	181217	PRJNA47661	47661	Other	Phycodnaviridae	397.298	40.2	eukaryotic algae	JF974310.1	478	473	2011/09/28	2012/02/22	Chromosome
+Emiliania huxleyi virus 84	181216	PRJNA47663	47663	Other	Phycodnaviridae	396.62	40.2	eukaryotic algae	JF974290.1	484	464	2011/09/26	2016/07/25	Chromosome
+Dunaliella viridis virus SI2	754069	PRJNA47665	47665	Other	Podoviridae	37.328	62.7	-	 Unknown:NC_023841.1/HQ332136.1	51	51	2013/03/19	2020/12/20	Complete Genome
+Tetraselmis viridis virus S20	754070	PRJNA47667	47667	Other	Siphoviridae	38.987	61.2	algae	 Unknown:NC_020840.1/HQ632857.1	55	55	2013/03/24	2020/12/20	Complete Genome
+Tetraselmis viridis virus SI1	754071	PRJNA47669	47669	Other	Siphoviridae	39.398	61.2	algae	 Unknown:HQ632858.1	55	54	2013/03/24	2013/03/24	Complete Genome
+Prochlorococcus phage P-SSM3	536453	PRJNA47671	47671	Other	Kyanoviridae	179.063	36.7	bacteria	 Unknown:NC_021559.1/HQ337021.1	223	214	2013/06/05	2021/10/12	Complete Genome
+Prochlorococcus phage P-SSM5	536454	PRJNA47673	47673	Other	Kyanoviridae	252.013	35.5	bacteria	HQ632825.1	331	319	2013/05/31	2013/06/05	Chromosome
+Vibrio phage VBP32	754072	PRJNA47675	47675	Other	Schitoviridae	76.718	42.5	bacteria	 Unknown:NC_020868.1/HQ634196.1	117	115	2013/03/25	2020/12/20	Complete Genome
+Vibrio phage VBP47	754073	PRJNA47677	47677	Other	Schitoviridae	76.705	42.5	bacteria	 Unknown:NC_020848.1/HQ634194.1	117	115	2013/03/25	2020/12/20	Complete Genome
+Vibrio phage VBM1	754074	PRJNA47679	47679	Other	Myoviridae	38.374	42.3	bacteria	 Unknown:NC_020850.1/HQ317386.1	56	56	2013/03/17	2020/12/20	Complete Genome
+Vibrio phage 11895-B1	754075	PRJNA47681	47681	Other	Myoviridae	126.434	35.5	bacteria	 Unknown:NC_020843.1/HQ634157.1	199	196	2013/03/24	2020/12/20	Complete Genome
+Vibrio phage VBpm10	754076	PRJNA47683	47683	Other	Myoviridae	33.314	45.9	bacteria	JF974302.1	53	48	2013/02/26	2013/02/26	Chromosome
+Sugarcane streak mosaic virus	53954		0	Other	Potyviridae	9.782	43.2	land plants	 Unknown:NC_014037.1/GQ388116.1	2	2	2010/04/09	2018/08/13	Complete Genome
+Synechococcus phage S-CBP3	756276		0	Other	Autographiviridae	45.871	46.9	bacteria	 Unknown:NC_025461.1/KC310803.1	55	53	2014/10/24	2021/10/12	Complete Genome
+Sunflower chlorotic mottle virus	129732		0	Other	Potyviridae	9.965	40.7	land plants	NC_014038.1/GU181199.1	2	2	2010/04/20	2018/08/13	Complete Genome
+Okra yellow mosaic Mexico virus	327280		0	Other	Geminiviridae	5.194	46.2046	land plants	 DNA A:NC_014066.1/DQ022611.1;  DNA B:NC_014067.1/GU972604.1	7	7	2005/05/10	2018/08/13	Complete Genome
+Torque teno mini virus 8	687376		0	Other	Anelloviridae	2.91	37.8	human	 Unknown:NC_014068.1/AF291073.1	2	2	2001/10/05	2018/08/13	Complete Genome
+Torque teno virus 4	687343		0	Other	Anelloviridae	3.69	53.6	vertebrates	 Unknown:NC_014069.1/AB041957.1	2	2	2000/12/14	2018/08/13	Complete Genome
+Torque teno sus virus 1a	687386		0	Other	Anelloviridae	2.878	51.6	vertebrates	 Unknown:NC_014070.1/AB076001.1	3	3	2002/04/18	2018/08/13	Complete Genome
+Torque teno canis virus	687385		0	Other	Anelloviridae	2.797	54.6	vertebrates	 Unknown:NC_014071.1/AB076002.1	3	3	2002/04/18	2018/08/13	Complete Genome
+Torque teno felis virus	687384		0	Other	Anelloviridae	2.064	54	vertebrates	 Unknown:NC_014072.1/AB076003.1	3	3	2002/04/18	2018/08/13	Complete Genome
+Torque teno virus 28	687367		0	Other	Anelloviridae	3.629	51.7	-	 Unknown:NC_014073.1/AB064598.1	4	4	2001/12/15	2018/08/13	Complete Genome
+Torque teno virus 27	687366		0	Other	Anelloviridae	3.729	53.4	human	 Unknown:NC_014074.1/AB064595.1	4	4	2001/12/15	2018/08/13	Complete Genome
+Torque teno virus 12	687351		0	Other	Anelloviridae	3.759	50.8	-	 Unknown:NC_014075.1/AB064605.1	4	4	2001/12/15	2018/08/13	Complete Genome
+Torque teno virus 10	687349		0	Other	Anelloviridae	3.77	51.2	human	 Unknown:NC_014076.1/AB064607.1	4	4	2001/12/15	2018/08/13	Complete Genome
+Torque teno virus 14	687353		0	Other	Anelloviridae	3.899	56.2	vertebrates	 Unknown:NC_014077.1/AB037926.1	2	2	2000/12/06	2018/08/13	Complete Genome
+Torque teno virus 19	687358		0	Other	Anelloviridae	3.808	53.8	-	 Unknown:NC_014078.1/AB025946.2	2	2	1999/07/03	2018/08/13	Complete Genome
+Torque teno virus 26	687365		0	Other	Anelloviridae	3.798	56.9	-	 Unknown:NC_014079.1/AB041958.2	3	3	2000/12/14	2018/08/13	Complete Genome
+Torque teno virus 7	687346		0	Other	Anelloviridae	3.736	48.4	human	 Unknown:NC_014080.1/AF261761.1	3	3	2000/07/12	2018/08/13	Complete Genome
+Torque teno virus 3	687342		0	Other	Anelloviridae	3.748	51.4	human	 Unknown:NC_014081.1/AY666122.2	6	6	2004/08/25	2018/08/13	Complete Genome
+Torque teno mini virus 7	687375		0	Other	Anelloviridae	2.952	36.2	-	 Unknown:NC_014082.1/AB038627.1	2	2	2000/04/04	2018/08/13	Complete Genome
+Torque teno virus 25	687364		0	Other	Anelloviridae	3.763	53.8	human	 Unknown:NC_014083.1/AB041959.1	3	3	2000/12/14	2018/08/13	Complete Genome
+Torque teno virus 8	687347		0	Other	Anelloviridae	3.79	50.9	-	 Unknown:NC_014084.1/AB054647.1	4	4	2001/07/03	2018/08/13	Complete Genome
+Torque teno tamarin virus	687382		0	Other	Anelloviridae	3.371	52.8	vertebrates	 Unknown:NC_014085.1/AB041960.1	4	4	2000/12/14	2018/08/13	Complete Genome
+Torque teno mini virus 2	687370		0	Other	Anelloviridae	2.765	39.4	human	 Unknown:NC_014086.1/AB038629.1	3	3	2000/04/04	2018/08/13	Complete Genome
+Torque teno douroucouli virus	687383		0	Other	Anelloviridae	3.718	60.3	vertebrates	 Unknown:NC_014087.1/AB041961.1	3	3	2000/12/14	2018/08/13	Complete Genome
+Torque teno mini virus 3	687371		0	Other	Anelloviridae	2.897	38	human	 Unknown:NC_014088.1/AB038630.1	3	3	2000/04/04	2018/08/13	Complete Genome
+Torque teno mini virus 5	687373		0	Other	Anelloviridae	2.908	37.1	human	 Unknown:NC_014089.1/AB041962.1	3	3	2000/12/14	2018/08/13	Complete Genome
+Torque teno mini virus 4	687372		0	Other	Anelloviridae	2.785	39.9	-	 Unknown:NC_014090.1/AB041963.1	2	2	2000/12/14	2018/08/13	Complete Genome
+Torque teno virus 16	687355		0	Other	Anelloviridae	3.818	51.1	-	 Unknown:NC_014091.1/AB017613.1	2	2	1999/07/14	2018/08/13	Complete Genome
+Torque teno midi virus 2	687380		0	Other	Anelloviridae	3.253	42.9	human	 Unknown:NC_014093.1/AB290919.1	4	4	2007/03/23	2018/08/13	Complete Genome
+Torque teno virus 6	687345		0	Other	Anelloviridae	3.705	50	human	 Unknown:NC_014094.1/AF435014.1	4	4	2001/11/07	2018/08/13	Complete Genome
+Torque teno mini virus 6	687374		0	Other	Anelloviridae	2.897	37.4	human	 Unknown:NC_014095.1/AB026929.1	3	3	1999/11/23	2018/08/13	Complete Genome
+Torque teno virus 15	687354		0	Other	Anelloviridae	3.787	51.1	-	 Unknown:NC_014096.1/AB028668.1	2	2	2000/04/27	2018/08/13	Complete Genome
+Torque teno mini virus 1	687369		0	Other	Anelloviridae	2.856	38.2	human	 Unknown:NC_014097.1/AB026931.1	3	3	1999/11/23	2018/08/13	Complete Genome
+Sulfolobus turreted icosahedral virus 2	754004		0	Other	Turriviridae	16.622	36.7	archaea	 Unknown:NC_014099.1/GU080336.1	34	34	2010/04/18	2021/10/11	Complete Genome
+Torque teno sus virus 1b	687387		0	Other	Anelloviridae	2.872	50.5	vertebrates	 Unknown:NC_027059.1/AY823990.1	3	3	2005/02/09	2018/08/13	Chromosome
+Freesia mosaic virus	421012		0	Other	Potyviridae	9.489	42.9	land plants	NC_014064.1/FM206346.1	2	2	2010/01/07	2018/08/13	Complete Genome
+Providence virus	213633		0	Other	Carmotetraviridae	6.155	51.8	invertebrates	 Unknown:NC_014126.1/GU991616.1	5	4	2010/05/04	2018/08/13	Complete Genome
+Chiltepin yellow mosaic virus	688701		0	Other	Tymoviridae	6.517	48.9	-	 Unknown:NC_014127.1/FN563123.1	3	3	2010/05/03	2018/08/13	Complete Genome
+Sida golden mottle virus	759390		0	Other	Geminiviridae	5.184	44.7628	-	 DNA A:NC_014130.1/GU997691.1;  DNA B:NC_014128.1/GU997692.1	7	7	2010/05/02	2018/08/13	Complete Genome
+Slow bee paralysis virus	458132		0	Other	Iflaviridae	9.505	37.5	invertebrates	 Unknown:NC_014137.1/EU035616.1	1	1	2007/08/08	2018/08/13	Complete Genome
+Abutilon Brazil virus	665102		0	Other	Geminiviridae	5.271	46.4576	land plants	 DNA A:NC_014138.1/FN434438.1;  DNA B:NC_014139.1/FN434439.1	7	7	2010/05/09	2018/08/13	Complete Genome
+Soybean mild mottle virus	761701		0	Other	Geminiviridae	2.768	44.7	land plants	 DNA A:NC_014140.1/GQ472984.1	6	6	2010/05/10	2018/08/13	Complete Genome
+Soybean chlorotic blotch virus	761702		0	Other	Geminiviridae	5.355	44.4722	land plants	 DNA A:NC_014141.1/GQ472985.1;  DNA B:NC_014142.1/GQ472986.1	9	9	2010/05/10	2018/08/13	Complete Genome
+Bettongia penicillata papillomavirus 1	759701		0	Other	Papillomaviridae	7.737	44.2	vertebrates	 Unknown:NC_014143.1/GU220391.1	7	7	2010/05/08	2018/08/14	Complete Genome
+Human papillomavirus 121	915429		0	Other	Papillomaviridae	7.342	37.7	human	NC_014185.1/GQ845443.1	7	7	2010/05/26	2018/08/13	Complete Genome
+Streptomyces phage phiSASD1	747763		0	Other	Siphoviridae	37.068	66.3	bacteria	 Unknown:NC_014229.1/GQ379227.1	43	43	2010/06/08	2021/10/12	Complete Genome
+Broome virus	667093		0	Other	Spinareoviridae	22.727	42.1395	vertebrates	 L1:NC_014236.1/GQ258977.1;  L2:NC_014237.1/GQ258978.1;  L3:NC_014238.1/GQ258979.1;  M1:NC_014239.1/GQ258980.1;  M2:NC_014240.1/GQ258981.1;  M3:NC_014241.1/GQ258982.1;  S1:NC_014242.1/GQ258983.1;  S2:NC_014243.1/GQ258984.1;  S3:NC_014244.1/GQ258985.1;  S4:NC_014245.1/GQ258986.1	11	11	2010/05/17	2018/08/13	Complete Genome
+Panax virus Y	796352		0	Other	Potyviridae	9.75	40.2	land plants	NC_014252.1/GQ916624.1	2	2	2010/06/15	2018/08/13	Complete Genome
+Hyperthermophilic Archaeal Virus 2	762906		0	unclassified archaeal viruses	unclassified	17.666	52.1	-	 Unknown:NC_014321.1/GU722197.1	15	15	2010/07/04	2020/12/20	Complete Genome
+Hyperthermophilic Archaeal Virus 1	762905		0	unclassified viruses	unclassified	22.743	46.2	archaea	 Unknown:NC_014322.1/GU722196.1	40	40	2010/07/04	2020/12/20	Complete Genome
+Turnip curly top virus	859650		0	Other	Geminiviridae	2.981	42	land plants	 Unknown:NC_014324.1/GU456685.1	6	6	2010/07/06	2018/08/13	Complete Genome
+Prochlorococcus phage P-SSP3	382273	PRJNA47875	47875	Other	Autographiviridae	46.198	37.9	bacteria	 Unknown:NC_020874.1/HQ332137.1	56	53	2013/03/10	2021/10/12	Complete Genome
+Prochlorococcus phage P-SSP6	382275	PRJNA47877	47877	Other	Autographiviridae	47.039	39.2	bacteria	HQ634152.1	54	48	2013/02/26	2013/02/26	Complete Genome
+Prochlorococcus phage P-GSP1	382262	PRJNA47879	47879	Other	Autographiviridae	44.945	39.6	bacteria	 Unknown:NC_020878.1/HQ332140.1	53	49	2013/03/10	2021/10/12	Complete Genome
+Prochlorococcus phage P-RSP2	756283	PRJNA47881	47881	Other	Autographiviridae	42.257	34	bacteria	HQ332139.1	48	46	2013/02/26	2013/02/26	Chromosome
+Tetraselmis viridis virus N1	756284	PRJNA47885	47885	unclassified viruses	unclassified	31.067	53.7	eukaryotic algae	JF974319.1	33	33	2011/11/23	2016/07/25	Chromosome
+Tetraselmis viridis virus S1	756285	PRJNA47887	47887	unclassified viruses	unclassified	26.407	54	eukaryotic algae	 Unknown:NC_020869.1/HQ332143.1	24	24	2013/03/24	2020/12/20	Complete Genome
+Cellulophaga phage phi3:1	756279		0	Other	Myoviridae	54.427	33.4	bacteria	KC821630.1	81	81	2013/06/29	2015/12/31	Complete Genome
+Synechococcus phage S-CBP2	756277		0	Other	Autographiviridae	46.237	55	bacteria	 Unknown:NC_025455.1/KC310806.1	53	53	2014/10/24	2020/12/20	Complete Genome
+Synechococcus phage S-CBS4	756275		0	Other	Siphoviridae	69.42	50.8	bacteria	 Unknown:NC_016766.1/HQ698895.1	105	105	2012/01/15	2020/12/20	Complete Genome
+Cellulophaga phage phiSM	756280		0	Other	Myoviridae	54.566	33.5	bacteria	KC821616.1	81	81	2013/06/29	2015/12/31	Complete Genome
+Cellulophaga phage phiST	756282	PRJNA47893	47893	Other	Other	79.114	30.2	bacteria	 Unknown:NC_020842.1/HQ634192.1	105	104	2013/03/25	2020/12/20	Complete Genome
+Bidens mottle virus	433357		0	Other	Potyviridae	9.741	41.7	land plants	NC_014325.1/AF538686.2	2	2	2003/02/05	2018/08/13	Complete Genome
+Pepper yellow mosaic virus	160358		0	Other	Potyviridae	9.745	42.4	land plants	NC_014327.1/AB541985.1	1	1	2010/07/13	2018/08/13	Complete Genome
+Fenneropenaeus chinensis hepandensovirus	797418		0	Other	Parvoviridae	6.085	39.4	-	 Unknown:NC_014357.1/GU371276.1	3	3	2010/07/28	2018/08/13	Complete Genome
+Bocavirus gorilla/GBoV1/2009	864686		0	Other	Parvoviridae	4.944	41.1	human,vertebrates	 Unknown:NC_014358.1/HM145750.1	4	4	2010/07/21	2018/08/13	Complete Genome
+Spissistilus festinus virus 1	862943		0	dsRNA viruses	unclassified	7.951	59	invertebrates	 Unknown:NC_014359.1/GU979419.1	2	2	2010/07/17	2018/08/13	Complete Genome
+Circulifer tenellus virus 1	862944		0	dsRNA viruses	unclassified	8.086	57.2	invertebrates	 Unknown:NC_014360.1/GU979420.1	2	2	2010/07/17	2018/08/13	Complete Genome
+Trichodysplasia spinulosa-associated polyomavirus	862909		0	Other	Polyomaviridae	5.232	40.1	human	 Unknown:NC_014361.1/GU989205.1	4	5	2010/07/29	2018/08/13	Complete Genome
+Bundibugyo ebolavirus	565995		0	Other	Filoviridae	18.94	42	human,vertebrates	 Unknown:NC_014373.1/FJ217161.1	7	9	2008/11/21	2018/11/07	Complete Genome
+Tai Forest ebolavirus	186541		0	Other	Filoviridae	18.935	42.3	human,vertebrates	 Unknown:NC_014372.1/FJ217162.1	7	9	2008/11/21	2018/08/13	Complete Genome
+Melon chlorotic mosaic virus	180399		0	Other	Geminiviridae	5.235	42.9546	land plants	 DNA A:NC_014380.1/HM163576.1;  DNA B:NC_014381.1/HM163577.1	7	7	2010/08/09	2018/08/13	Complete Genome
+Human polyomavirus 7	746831		0	Other	Polyomaviridae	4.952	42.9	human	 Unknown:NC_014407.1/HM011566.1	5	5	2010/05/07	2018/08/13	Complete Genome
+Human polyomavirus 6	746830		0	Other	Polyomaviridae	4.926	42.7	human	 Unknown:NC_014406.1/HM011560.1	5	5	2010/05/07	2018/08/13	Complete Genome
+Passerivirus A1	871699		0	Other	Picornaviridae	8.035	57.9	vertebrates	 Unknown:NC_014411.1/GU182406.1	1	1	2010/08/15	2018/08/13	Complete Genome
+Oscivirus A1	871700		0	Other	Picornaviridae	7.641	46.9	vertebrates	 Unknown:NC_014412.1/GU182408.1	1	1	2010/08/15	2018/08/13	Complete Genome
+Oscivirus A2	871701		0	Other	Picornaviridae	7.678	46.6	vertebrates	 Unknown:NC_014413.1/GU182410.1	1	1	2010/08/15	2018/08/13	Complete Genome
+Clostridium phage phiCTP1	871584		0	Other	Siphoviridae	59.199	31.3	bacteria	 Unknown:NC_014457.1/HM159959.1	86	86	2010/08/15	2020/12/20	Complete Genome
+Mycobacterium phage Angelica	2902837		0	Other	Other	59.598	66.4	bacteria	 Unknown:NC_014458.1/HM152764.1	95	94	2010/08/18	2022/01/31	Complete Genome
+Mycobacterium phage CrimD	2919554		0	Other	Other	59.798	66.9	bacteria	 Unknown:NC_014459.2/HM152767.2	96	95	2010/08/18	2022/03/23	Complete Genome
+Staphylococcus phage SAP-26	2919550		0	Other	Other	41.207	34	bacteria	 Unknown:NC_014460.1/GU477322.1	63	63	2010/08/18	2022/03/23	Complete Genome
+Mycobacterium phage LeBron	2919553		0	Other	Vilmaviridae	73.453	58.8	bacteria	 Unknown:NC_014461.1/HM152763.1	132	123	2010/08/18	2022/05/27	Complete Genome
+Magnaporthe oryzae chrysovirus 1	764348		0	Other	Chrysoviridae	15.8	61.8471	fungi	 1:NC_014462.1/AB560761.1;  2:NC_014465.1/AB560762.1;  3:NC_014463.1/AB560763.1;  4:NC_014464.1/AB560764.1;  5:NC_038011.1/AB700631.1	5	5	2010/08/21	2018/08/13	Complete Genome
+Pseudotevenvirus RB16	329381		0	Other	Straboviridae	176.788	43.5	bacteria	 Unknown:NC_014467.1/HM134276.1	272	270	2010/07/05	2020/12/20	Complete Genome
+Bat adeno-associated virus YNM	727962		0	Other	Parvoviridae	4.286	62.9	vertebrates	 Unknown:NC_014468.1/GU226971.1	2	2	2010/08/23	2018/08/13	Complete Genome
+Human papillomavirus 127	746832		0	Other	Papillomaviridae	7.181	37	human	NC_014469.1/HM011570.1	7	7	2010/08/24	2018/08/13	Complete Genome
+Bat coronavirus BM48-31/BGR/2008	864596		0	Other	Coronaviridae	29.276	40.4	vertebrates	 Unknown:NC_014470.1/GU190215.1	9	10	2010/08/25	2021/12/31	Complete Genome
+Croton yellow vein virus	671095		0	Other	Geminiviridae	2.744	42.2	land plants	 DNA A:NC_014473.1/FN543112.1	6	6	2010/08/26	2018/08/13	Complete Genome
+Simian retrovirus 4	723802		0	Other	Retroviridae	8.126	43.3	human,vertebrates	 Unknown:NC_014474.1/FJ971077.1	4	4	2010/08/23	2018/08/13	Complete Genome
+Torque teno virus 2	687341		0	Other	Anelloviridae	3.322	52.8	human,vertebrates	 Unknown:NC_014480.2/AB049608.1	2	2	2001/01/10	2018/08/13	Complete Genome
+Rhododendron virus A	878260		0	Other	Amalgaviridae	3.427	50.7	land plants	 Unknown:NC_014481.1/HQ128706.1	2	2	2010/08/31	2018/08/13	Complete Genome
+Tobacco leaf curl virus	67762		0	Other	Geminiviridae	2.762	43.9	land plants	 DNA A:NC_029994.1/KT992046.1	6	6	2016/04/20	2018/08/13	Complete Genome
+Velvet tobacco mottle virus	12473		0	Other	Solemoviridae	4.247	47.8	land plants	 Unknown:NC_014509.2/HM754263.2	5	5	2010/09/20	2018/08/13	Complete Genome
+Tomato leaf deformation virus	681518		0	Other	Geminiviridae	2.591	43.4	land plants	 DNA A:NC_014510.2/GQ334472.2	5	5	2010/09/17	2018/08/13	Complete Genome
+Rotavirus D chicken/05V0049/DEU/2005	884200		0	Other	Sedoreoviridae	18.5	33.1189	vertebrates	 1:NC_014511.1/GU733443.1;  2:NC_014512.1/GU733444.1;  3:NC_014513.1/GU733445.1;  4:NC_014514.1/GU733446.1;  5:NC_014515.1/GU733447.1;  6:NC_014516.1/GU733448.1;  7:NC_014517.1/GU733449.1;  8:NC_014518.1/GU733450.1;  9:NC_014519.1/GU733451.1;  10:NC_014520.1/GU733452.1;  11:NC_014521.1/GU733453.1	12	12	2010/09/18	2018/08/13	Complete Genome
+Great Island virus	204269		0	Other	Sedoreoviridae	17.858	57.7735	human,invertebrates	 1:NC_014522.1/HM543465.1;  2:NC_014523.1/HM543466.1;  3:NC_014524.1/HM543467.1;  4:NC_014525.1/HM543468.1;  5:NC_014526.1/HM543469.1;  6:NC_014527.1/HM543470.1;  7:NC_014528.1/HM543471.1;  8:NC_014529.1/HM543472.1;  9:NC_014530.1/HM543473.1;  10:NC_014531.1/HM543474.1	11	11	2010/09/13	2018/08/13	Complete Genome
+Brugmansia suaveolens mottle virus	487155		0	Other	Potyviridae	9.87	39.8	land plants	NC_014536.1/AB551370.1	2	2	2010/09/22	2018/08/13	Complete Genome
+Tomato leaf curl Oman virus	713949		0	Other	Geminiviridae	2.763	42.7	land plants	 DNA A:NC_014542.1/FJ956700.1	6	6	2010/09/24	2018/08/13	Complete Genome
+Synechococcus phage KBS-M-1A	889950	PRJNA53279	53279	Other	Kyanoviridae	171.744	40.6	bacteria	JF974293.1	221	213	2013/03/25	2013/03/25	Complete Genome
+Methylophilales phage HIM624-A	889949	PRJNA53281	53281	Other	Podoviridae	23.493	38.4	bacteria	JF974298.1	35	35	2012/02/26	2012/02/26	Chromosome
+Cyanophage KBS-P-1A	889951	PRJNA53283	53283	Other	Autographiviridae	45.73	47.4	bacteria	 Unknown:NC_020865.1/HQ634188.1	58	57	2013/03/25	2021/10/12	Complete Genome
+Cyanophage KBS-S-1A	889952	PRJNA53285	53285	Other	Autographiviridae	32.402	44.7	bacteria	JF974297.1	42	37	2011/11/21	2016/07/25	Chromosome
+Cyanophage KBS-S-2A	889953	PRJNA53287	53287	Other	Siphoviridae	40.658	49.1	bacteria	 Unknown:NC_020854.1/HQ634187.1	64	64	2013/03/25	2020/12/20	Complete Genome
+Cyanophage MED4-117	889954	PRJNA53289	53289	Other	Siphoviridae	38.834	37.2	-	 Unknown:NC_020857.1/JF974321.1	63	63	2013/03/19	2020/12/20	Complete Genome
+Prochlorococcus phage MED4-184	889955	PRJNA53293	53293	Other	Siphoviridae	38.327	37.2	bacteria	 Unknown:NC_020847.1/JF974286.1	60	59	2013/03/23	2020/12/20	Complete Genome
+Prochlorococcus phage MED4-213	889956	PRJNA53295	53295	Other	Other	180.977	37.8	bacteria	 Unknown:NC_020845.1/HQ634174.1	218	216	2013/03/23	2021/10/12	Complete Genome
+Cyanophage P-RSM1	536444	PRJNA53297	53297	Other	Kyanoviridae	177.211	40.2	-	 Unknown:NC_021071.1/HQ634175.1	215	212	2013/03/23	2021/10/12	Complete Genome
+Cyanophage P-SS1	889957	PRJNA53299	53299	Other	Kyanoviridae	178.284	36.7	bacteria	JF974306.1	217	216	2013/02/26	2013/02/26	Chromosome
+Cyanophage P-RSM3	536446	PRJNA53301	53301	Other	Kyanoviridae	178.75	36.7	-	HQ634176.1	211	208	2013/03/23	2013/03/23	Complete Genome
+Cyanophage P-RSM6	929832	PRJNA53303	53303	Other	Kyanoviridae	192.497	39.3	-	 Unknown:NC_020855.1/HQ634193.1	224	221	2013/03/20	2021/10/12	Complete Genome
+Synechococcus phage Syn30	536474	PRJNA53305	53305	Other	Kyanoviridae	178.807	39.9	bacteria	 Unknown:NC_021072.1/HQ634189.1	216	209	2013/03/25	2021/10/12	Complete Genome
+Cyanophage Syn2	536473	PRJNA53307	53307	Other	Kyanoviridae	175.596	41.3	bacteria	HQ634190.1	209	201	2013/03/25	2013/03/25	Complete Genome
+Cyanophage Syn10	536472	PRJNA53309	53309	Other	Myoviridae	177.103	40.6	bacteria	HQ634191.1	216	205	2013/03/25	2013/03/25	Complete Genome
+Cyanophage S-SSM2	536464	PRJNA53311	53311	Other	Kyanoviridae	179.98	41.1	bacteria	JF974292.1	208	207	2013/03/20	2013/03/25	Complete Genome
+Halorubrum phage GNf2	889959	PRJNA53313	53313	Other	Myoviridae	82.365	53.6	archaea	JF974305.1	112	109	2013/02/26	2013/02/26	Chromosome
+Cotton leafroll dwarf virus	312295		0	Other	Solemoviridae	5.866	50.1	land plants	 Unknown:NC_014545.1/GU167940.1	7	7	2010/10/01	2018/08/13	Complete Genome
+Frangipani mosaic virus	99585		0	Other	Virgaviridae	6.643	39.3	land plants	 Unknown:NC_014546.1/HM026454.1	4	4	2010/10/03	2018/08/13	Complete Genome
+Digitaria didactyla striate mosaic virus	889510		0	Other	Geminiviridae	2.762	48.4	land plants	 Unknown:NC_014547.1/HM122238.1	4	4	2010/10/03	2018/08/13	Complete Genome
+Vibrio phage jenny 12G5	573176	PRJNA53545	53545	Other	Siphoviridae	40.557	42.3	bacteria	HQ632860.1	75	75	2013/06/11	2013/06/11	Complete Genome
+Vibrio phage eugene 12A10	573172	PRJNA53547	53547	Other	Myoviridae	138.234	38	bacteria	 Unknown:NC_029067.1/HQ634195.1	253	251	2013/06/11	2020/12/20	Complete Genome
+Turkey adenovirus 1	878329		0	Other	Adenoviridae	45.413	66.9	vertebrates	 Unknown:NC_014564.2/GU936707.2	37	37	2010/09/06	2020/12/20	Complete Genome
+Saimiriine alphaherpesvirus 1	10353		0	Other	Herpesviridae	156.742	67.1	-	 Unknown:NC_014567.1/HM625781.1	70	70	2010/10/09	2018/08/13	Complete Genome
+Blueberry latent virus	430710		0	Other	Amalgaviridae	3.431	47	land plants	 Unknown:NC_014593.1/HM029246.1	2	2	2010/10/09	2018/08/13	Complete Genome
+Tomato leaf curl Bangladesh betasatellite	885379		0	Other	Tolecusatellitidae	1.383	39.6	land plants	AJ542489.1	1	1	2004/05/10	2017/09/29	Complete Genome
+Shigella phage SP18	645664		0	Other	Straboviridae	170.605	40.4	bacteria	 Unknown:NC_014595.1/GQ981382.1	289	284	2010/10/12	2021/10/12	Complete Genome
+Tobacco leaf curl Pusa virus	905054		0	Other	Geminiviridae	2.707	43.1	land plants	 DNA A:NC_014596.1/HQ180391.1	6	6	2010/10/12	2018/08/13	Complete Genome
+Tobacco leaf curl PUSA alphasatellite	905055		0	Other	Alphasatellitidae	1.379	41	land plants	 Unknown:NC_014597.1/HQ180392.1	1	1	2010/10/12	2018/08/13	Complete Genome
+Raspberry latent virus	907191		0	Other	Other	26.128	42.5502	land plants	 1:NC_014598.1/;  S1:HQ012653.1;  2:NC_014599.1/;  S2:HQ012654.1;  3:NC_014600.1/;  S3:HQ012655.1;  4:NC_014601.1/;  S4:HQ012656.1;  5:NC_014602.1/;  S5:HQ012657.1;  6:NC_014603.1/;  S6:HQ012658.1;  7:NC_014604.1/;  S7:HQ012659.1;  8:NC_014605.1/;  S8:HQ012660.1;  9:NC_014606.1/;  S9:HQ012661.1;  10:NC_014607.1/;  S10:HQ012662.1	12	24	2010/10/12	2011/03/15	Complete Genome
+Armigeres subalbatus virus SaX06-AK20	556524		0	Other	Totiviridae	7.51	46.4	invertebrates	 Unknown:NC_014609.1/EU715328.1	2	2	2009/12/31	2018/08/13	Complete Genome
+Euphorbia yellow mosaic virus associated DNA 1	666147		0	Other	Alphasatellitidae	1.331	43.4	land plants	 Unknown:NC_014630.1/FN436008.1	1	1	2010/06/09	2018/08/13	Complete Genome
+Spinach severe curly top virus	873160		0	Other	Geminiviridae	3.065	38.1	land plants	 Unknown:NC_014631.1/GU734126.2	6	6	2010/09/07	2018/08/13	Complete Genome
+Aeromonas phage phiAS4	879628		0	Other	Straboviridae	163.875	41.3	bacteria	 Unknown:NC_014635.1/HM452125.1	271	271	2010/09/08	2020/12/20	Complete Genome
+Aeromonas phage phiAS5	879630		0	Other	Straboviridae	225.268	43	bacteria	 Unknown:NC_014636.1/HM452126.1	343	343	2010/09/08	2020/12/20	Complete Genome
+Cafeteria roenbergensis virus BV-PW1	693272		0	Other	Mimiviridae	617.453	23.3	protozoa	 Unknown:NC_014637.1/GU244497.1	544	544	2010/10/26	2020/12/20	Complete Genome
+Ageratum leaf curl Cameroon virus	912033		0	Other	Geminiviridae	2.792	42.2	land plants	 DNA A:NC_014645.1/FR717144.1	6	6	2010/11/02	2018/08/14	Complete Genome
+Malvastrum yellow vein Changa Manga virus	911574		0	Other	Geminiviridae	2.754	43.5	land plants	 DNA A:NC_014647.1/FR715681.1	6	6	2010/10/31	2018/08/13	Complete Genome
+Cellulophaga phage phi47:1	756281		0	Other	Myoviridae	54.016	33.5	bacteria	KC821634.1	80	80	2013/06/29	2015/12/31	Complete Genome
+Acanthamoeba polyphaga mimivirus	212035		0	Other	Mimiviridae	1181.55	28	protozoa	 Unknown:NC_014649.1/HQ336222.2	1018	979	2010/10/12	2021/01/21	Complete Genome
+Acinetobacter phage Ac42	762660		0	Other	Straboviridae	167.716	36.4	bacteria	 Unknown:NC_014660.1/HM032710.1	263	255	2010/11/10	2021/10/12	Complete Genome
+Acinetobacter phage Acj61	760732		0	Other	Straboviridae	164.093	39	bacteria	 Unknown:NC_014661.1/GU911519.1	254	241	2010/11/10	2021/10/12	Complete Genome
+Enterobacter phage CC31	709484		0	Other	Straboviridae	165.54	39.9	bacteria	 Unknown:NC_014662.1/GU323318.1	287	279	2010/01/21	2021/10/12	Complete Genome
+Acinetobacter phage Acj9	760939		0	Other	Straboviridae	169.947	40	bacteria	 Unknown:NC_014663.1/HM004124.1	272	253	2010/11/10	2020/12/20	Complete Genome
+Porcine parvovirus 4	707546		0	Other	Parvoviridae	5.905	42.5	vertebrates	 Unknown:NC_014665.1/GQ387499.1	3	3	2010/01/12	2018/08/13	Complete Genome
+Papaya leaf crumple virus-Panipat 8 [India:Panipat:Papaya:2008]	913600		0	Other	Geminiviridae	2.736	44.1	land plants	 DNA A:NC_014707.1/HM140367.1	7	7	2010/11/17	2018/08/13	Complete Genome
+Southern rice black-streaked dwarf virus	519497		0	Other	Spinareoviridae	29.124	34.4008	land plants	 5:NC_014708.1/FN563993.1;  9:NC_014712.1/EU523359.1;  10:NC_014713.1/EU523360.1;  6:NC_014709.1/FN563994.1;  1:NC_014714.1/FN563989.1;  7:NC_014710.1/FN563995.1;  2:NC_014715.1/FN563990.1;  8:NC_014711.1/FN563996.1;  3:NC_014716.1/FN563991.1;  4:NC_014717.1/FN563992.1	13	13	2008/04/21	2018/08/13	Complete Genome
+Cowpea mild mottle virus	67761		0	Other	Betaflexiviridae	8.127	41.1	land plants	 Unknown:NC_014730.1/HQ184471.1	6	6	2010/11/23	2018/08/13	Complete Genome
+Chickpea redleaf virus	887827		0	Other	Geminiviridae	2.605	43.2	land plants	 Unknown:NC_014739.1/GU256532.1	4	4	2010/11/22	2018/08/13	Complete Genome
+Chickpea chlorosis virus-A	887825		0	Other	Geminiviridae	2.582	43.5	land plants	 Unknown:NC_014740.1/GU256530.1	4	4	2010/11/22	2018/08/13	Complete Genome
+Escherichia phage vB_EcoM_VR7	700939		0	Other	Straboviridae	169.285	40.3	bacteria	 Unknown:NC_014792.1/HM563683.1	294	293	2010/12/07	2021/10/12	Complete Genome
+Mud crab virus	932662		0	Other	Dicistroviridae	10.436	40.7	invertebrates	 Unknown:NC_014793.1/HM777507.1	2	2	2010/12/12	2018/08/13	Complete Genome
+Sida golden mosaic Buckup virus-[Jamaica:St. Elizabeth:2004]	929769		0	Other	Geminiviridae	5.199	44.6717	-	 DNA A:NC_014794.1/HQ008338.1;  DNA B:NC_014795.1/HQ009518.1	5	5	2010/12/13	2018/08/13	Complete Genome
+Apricot latent virus	75387		0	Other	Betaflexiviridae	9.311	42.4	land plants	 Unknown:NC_014821.1/HQ339956.1	5	5	2010/12/25	2018/08/13	Complete Genome
+Bromus catharticus striate mosaic virus	936005		0	Other	Geminiviridae	2.797	49.5	land plants	 Unknown:NC_014822.1/HQ113104.1	4	4	2010/12/25	2018/08/13	Complete Genome
+Tolypocladium cylindrosporum virus 1	939923		0	Other	Totiviridae	5.196	61	fungi	 Unknown:NC_014823.1/FR750562.1	2	2	2010/12/23	2018/08/13	Complete Genome
+Human papillomavirus 148	942038		0	Other	Papillomaviridae	7.164	37.4	human	GU129016.1	7	7	2010/12/31	2016/07/25	Complete Genome
+Bhendi yellow vein India virus [India:Dharwad OYDWR2:2006]	908028		0	Other	Geminiviridae	2.739	43.4	land plants	 DNA A:NC_014845.1/GU112023.1	7	7	2011/01/01	2018/08/13	Complete Genome
+Bhendi yellow vein India betasatellite [India:Aurangabad:OY164:2006]	908010		0	Other	Tolecusatellitidae	1.385	37	land plants	 Unknown:NC_014846.1/GU111988.1	1	1	2011/01/01	2018/08/13	Complete Genome
+Okra leaf curl India virus [India:Sonipat EL14A:2006]	908124		0	Other	Geminiviridae	2.723	44.7	land plants	 DNA A:NC_014847.1/GU112010.1	6	6	2011/01/01	2018/08/13	Complete Genome
+Okra enation leaf curl virus [India:Munthal EL37:2006]	908127		0	Other	Geminiviridae	2.724	44.7	land plants	 DNA A:NC_014894.1/GU111998.1	6	6	2011/01/01	2018/08/13	Complete Genome
+Bhendi yellow vein mosaic betasatellite [India:Coimbator:OYCO1:2005]	908072		0	Other	Tolecusatellitidae	1.373	41.2	land plants	 Unknown:NC_014895.1/GU111975.1	1	1	2011/01/01	2018/08/13	Complete Genome
+Okra enation leaf curl betasatellite [India:Sonipat:EL10:2006]	908277		0	Other	Tolecusatellitidae	1.354	38.3	land plants	 Unknown:NC_014896.1/GU111961.1	1	1	2011/01/01	2018/08/13	Complete Genome
+Cotton leaf curl Allahabad virus [India:Karnal:OY77:2005]	908137		0	Other	Geminiviridae	2.744	42.9	land plants	 DNA A:GU112081.1	7	7	2011/01/01	2012/05/18	Complete Genome
+Lupinus mosaic virus	573615		0	Other	Potyviridae	10.113	39.9	land plants	NC_014898.1/EU847625.2	2	2	2009/09/30	2018/08/13	Complete Genome
+Murine adenovirus 2	931972		0	Other	Adenoviridae	35.203	63.4	vertebrates	 Unknown:NC_014899.1/HM049560.1	27	27	2011/01/01	2020/12/20	Complete Genome
+Salmonella phage ST160	714583		0	Other	Other	40.986	47.1	bacteria	 Unknown:NC_014900.1/GU573886.1	63	63	2011/01/01	2021/10/12	Complete Genome
+Mycobacterium phage Wee	938131		0	Other	Other	59.23	61.8	bacteria	 Unknown:NC_014901.1/HQ728524.1	109	109	2010/12/27	2022/01/05	Complete Genome
+Rhynchosia yellow mosaic India virus	935473		0	Other	Geminiviridae	5.406	39.0204	land plants	 DNA A:NC_014902.1/HM777508.1;  DNA B:NC_014903.1/HM777510.1	9	8	2010/12/26	2018/08/13	Complete Genome
+Tuber aestivum betaendornavirus	941765		0	Other	Endornaviridae	9.76	40.4	fungi	 Unknown:NC_014904.1/HQ380014.1	1	1	2011/01/09	2018/08/13	Complete Genome
+Apium virus Y	168135		0	Other	Potyviridae	9.917	40.5	land plants	NC_014905.1/HM363516.1	2	2	2011/01/12	2018/08/13	Complete Genome
+Okra yellow crinkle Cameroon alphasatellite [CM:Lys1sp2:09]	743026		0	Other	Alphasatellitidae	1.356	38.6	land plants	 Unknown:NC_014906.1/FN675284.1	1	1	2011/01/10	2018/08/13	Complete Genome
+Malvastrum yellow mosaic Cameroon alphasatellite	741733		0	Other	Alphasatellitidae	1.416	40	land plants	 Unknown:NC_014907.1/FN675297.1	1	1	2011/01/10	2018/08/13	Complete Genome
+Cyclovirus PKgoat21/PAK/2009	942033		0	Other	Circoviridae	1.838	45.3	vertebrates	 Unknown:NC_014927.1/HQ738635.1	2	2	2011/01/10	2018/08/13	Complete Genome
+Cyclovirus PKgoat11/PAK/2009	942034		0	Other	Circoviridae	1.751	43.7	vertebrates	 Unknown:NC_014928.1/HQ738636.1	2	2	2011/01/10	2018/08/13	Complete Genome
+Cyclovirus bat/USA/2009	942035		0	Other	Circoviridae	1.703	41.5	vertebrates	 Unknown:NC_014929.1/HQ738637.1	2	2	2011/01/10	2018/08/13	Complete Genome
+Cyclovirus NGchicken15/NGA/2009	942037		0	Other	Circoviridae	1.76	44.5	vertebrates	 Unknown:NC_014930.1/HQ738644.1	2	2	2011/01/10	2018/08/13	Complete Genome
+Human papillomavirus type 128	931209		0	Other	Papillomaviridae	7.259	36	human,vertebrates	NC_014952.1/GU225708.1	7	7	2010/12/31	2019/06/04	Complete Genome
+Human papillomavirus type 129	931210		0	Other	Papillomaviridae	7.219	37.3	human	NC_014953.1/GU233853.1	7	7	2010/12/31	2019/06/04	Complete Genome
+Human papillomavirus type 131	909330		0	Other	Papillomaviridae	7.182	37	human	NC_014954.1/GU117631.1	7	7	2010/12/31	2019/06/04	Complete Genome
+Human papillomavirus 132	909331		0	Other	Papillomaviridae	7.125	37.9	human	NC_014955.1/GU117632.1	7	7	2010/12/31	2018/08/13	Complete Genome
+Human papillomavirus 134	909333		0	Other	Papillomaviridae	7.309	38.1	human	NC_014956.1/GU117634.1	7	7	2010/12/31	2019/06/04	Complete Genome
+Honeysuckle ringspot virus	943272		0	Other	Tombusviridae	3.956	48.7	land plants	 Unknown:NC_014967.1/HQ677625.1	6	6	2011/01/15	2018/08/13	Complete Genome
+Sweet potato leaf curl Uganda virus-[Uganda:Kampala:2008]	940846		0	Other	Geminiviridae	2.799	43.2	land plants	 DNA A:NC_014968.1/FR751068.1	7	7	2011/01/21	2018/08/13	Complete Genome
+Sweet potato virus C	930881		0	Other	Potyviridae	10.82	42.9	land plants	NC_014742.1/GU207957.1	2	2	2010/11/28	2018/08/13	Complete Genome
+Ageratum leaf curl Cameroon alphasatellite	743035		0	Other	Alphasatellitidae	1.383	37.2	land plants	 Unknown:NC_014744.1/FR717143.1	3	3	2010/12/01	2018/08/14	Complete Genome
+Okra leaf curl Cameroon virus	912034		0	Other	Geminiviridae	2.764	43.5	land plants	 DNA A:NC_014745.1/FR717137.1	6	6	2010/12/01	2018/08/13	Complete Genome
+Ageratum leaf curl Buea betasatellite	912035		0	Other	Tolecusatellitidae	1.259	36.6	-	 Unknown:NC_014746.1/FR717140.1	1	1	2010/12/01	2018/08/14	Complete Genome
+Tomato leaf curl Togo betasatellite-[Togo:2006]	929051		0	Other	Tolecusatellitidae	1.399	37.4	land plants	KT382328.1	-	1	2016/02/03	2016/02/03	Complete Genome
+Tomato leaf curl Cameroon alphasatellite [CM:TOS2D1:To:09]	743042		0	Other	Alphasatellitidae	1.401	40.5	land plants	NC_038903.1/FN675299.1	1	1	2011/01/10	2018/08/24	Complete Genome
+Bathycoccus sp. RCC1105 virus BpV1	880159		0	Other	Phycodnaviridae	198.519	37.2	-	 Unknown:NC_014765.1/HM004432.1	203	203	2010/11/29	2020/12/20	Complete Genome
+Ostreococcus lucimarinus virus 1	880162		0	Other	Phycodnaviridae	194.022	40.9	eukaryotic algae	 Unknown:NC_014766.1/HM004431.1	255	250	2010/11/29	2020/12/20	Complete Genome
+Micromonas sp. RCC1109 virus MpV1	880161		0	Other	Phycodnaviridae	184.095	40.9	-	 Unknown:NC_014767.1/HM004429.1	244	244	2010/11/29	2020/12/20	Complete Genome
+Ostreococcus tauri virus 2	696472		0	Other	Phycodnaviridae	184.409	41.6	eukaryotic algae	 Unknown:NC_014789.1/FN600414.1	237	237	2010/12/05	2020/12/20	Complete Genome
+Passion fruit woodiness virus	31732		0	Other	Potyviridae	9.682	41.5	land plants	NC_014790.2/HQ122652.2	1	1	2010/12/04	2018/08/13	Complete Genome
+Ugandan cassava brown streak virus	946046		0	Other	Potyviridae	9.07	38.7	land plants	 Unknown:NC_014791.1/HM181930.1	2	2	2010/12/07	2018/08/13	Complete Genome
+Fowl aviadenovirus 6	172862		0	Other	Adenoviridae	43.81	57.9	vertebrates	NC_038332.1/KT862808.1	37	37	2016/06/12	2020/12/20	Complete Genome
+Penaeus vannamei nodavirus	430911		0	Other	Nodaviridae	4.294	45.4633	invertebrates	 RNA 2:NC_014977.1/EF137180.2;  RNA 1:NC_014978.1/HQ259079.1	3	3	2007/05/10	2018/08/13	Complete Genome
+Sida mosaic Bolivia virus 2	932070		0	Other	Geminiviridae	5.316	45.1591	land plants	 DNA A:NC_015043.1/HM585443.1;  DNA B:NC_015047.1/HM585444.1	7	7	2011/01/15	2018/08/13	Complete Genome
+Sida mosaic Bolivia virus 1	932069		0	Other	Geminiviridae	5.348	46.4027	-	 DNA A:NC_015046.1/HM585441.1;  DNA B:NC_015044.1/HM585442.1	7	7	2011/01/15	2018/08/13	Complete Genome
+Abutilon mosaic Bolivia virus	932071		0	Other	Geminiviridae	5.399	44.0652	land plants	 DNA A:NC_015045.1/HM585445.1;  DNA B:NC_015048.1/HM585446.1	7	7	2011/01/15	2018/08/13	Complete Genome
+Pepper vein yellows virus	909827		0	Other	Solemoviridae	6.244	49.5	land plants	 Unknown:NC_015050.1/AB594828.1	7	7	2011/02/01	2018/08/13	Complete Genome
+Spinach curly top Arizona virus	945225		0	Other	Geminiviridae	2.86	40	land plants	 Unknown:NC_015051.1/HQ443515.1	5	5	2011/02/01	2018/08/13	Complete Genome
+Santeuil nodavirus	977913		0	Other	Nodaviridae	6.281	53.0552	invertebrates	 RNA 1:NC_015069.1/HM030972.1;  RNA 2:NC_015070.1/HM030973.1	3	3	2011/02/05	2018/08/13	Complete Genome
+Mosquito densovirus BR/07	945962		0	Other	Parvoviridae	3.893	37.1	-	 Unknown:NC_015115.1/GU452720.1	3	3	2011/02/01	2018/08/13	Complete Genome
+Japanese eel endothelial cells-infecting virus	712037		0	unclassified viruses	unclassified	15.131	47.9	vertebrates	 Unknown:NC_015123.1/AB543063.1	14	14	2011/02/04	2020/12/20	Complete Genome
+Tomato leaf curl Hanoi virus	971271		0	Other	Geminiviridae	2.74	42.1	land plants	 DNA A:NC_015124.1/HQ162270.1	6	6	2011/02/02	2018/08/13	Complete Genome
+Avian orthoreovirus	38170		0	Other	Spinareoviridae	22.969	51.2377	vertebrates	 L1:KF809662.1;  L2:KF809663.1;  L3:KF809664.1;  M1:KF809665.1;  M2:KF809666.1;  M3:KF809667.1;  S1:KF809668.1;  S2:KF809669.1;  S3:KF809670.1;  S4:KF809671.1	9	11	2014/03/09	2014/09/18	Complete Genome
+Human polyomavirus 9	943908		0	Other	Polyomaviridae	5.026	39.2	human	 Unknown:NC_015150.1/HQ696595.1	5	5	2011/02/12	2018/08/13	Complete Genome
+Vibrio phage ICP1	979525		0	Other	Myoviridae	130.838	37.1	bacteria	MW794140.1	231	231	2022/04/01	2022/04/01	Complete Genome
+Vibrio phage CTXphi	2785247		0	Other	Inoviridae	10.638	44.6	bacteria	chromosome I:NC_015209.1/HQ224500.1	13	13	2011/02/15	2021/10/13	Complete Genome
+Tsukamurella phage TPA2	981330		0	Other	Siphoviridae	61.44	69.6	bacteria	 Unknown:NC_015210.1/HM486077.1	78	78	2011/02/14	2020/12/20	Complete Genome
+Seal anellovirus TFFN/USA/2006	991022		0	Other	Anelloviridae	2.164	46.8	vertebrates	 Unknown:NC_015212.1/HQ287751.1	3	3	2011/03/09	2018/08/13	Complete Genome
+Grapevine berry inner necrosis virus	81877		0	Other	Betaflexiviridae	7.241	38.6	land plants	 Unknown:NC_015220.1/D88448.2	3	3	2001/05/08	2018/08/13	Complete Genome
+Trailing lespedeza virus 1	944580		0	Other	Tombusviridae	3.929	48.4	land plants	 Unknown:NC_015227.2/HM640935.2	5	5	2011/03/13	2018/08/13	Complete Genome
+Sweet potato vein clearing virus	995049		0	Other	Caulimoviridae	8.837	30.1	land plants	 Unknown:NC_015228.1/HQ694979.1	9	9	2011/03/15	2018/08/13	Complete Genome
+Fig fleck-associated virus	548908		0	Other	Tymoviridae	6.704	54.7	land plants	 Unknown:NC_015229.1/FM200426.2	2	2	2010/07/21	2018/08/13	Complete Genome
+Acinetobacter phage 133	2919552		0	Other	Straboviridae	159.801	39.7	bacteria	 Unknown:NC_015250.1/HM114315.1	273	257	2010/06/29	2022/03/23	Complete Genome
+Aeromonas phage 65	2919549		0	Other	Straboviridae	235.229	37.2	bacteria	 Unknown:NC_015251.1/GU459069.1	454	437	2010/11/24	2022/03/23	Complete Genome
+Brochothrix phage NF5	764561		0	Other	Siphoviridae	36.953	37.3	bacteria	 Unknown:NC_015252.1/HM144385.1	58	58	2010/06/18	2021/10/12	Complete Genome
+Brochothrix phage A9	857312		0	Other	Herelleviridae	127.065	41.4	bacteria	 Unknown:NC_015253.1/HM242243.1	199	199	2010/06/30	2021/10/12	Complete Genome
+Brochothrix phage BL3	764562		0	Other	Siphoviridae	41.518	36.4	bacteria	 Unknown:NC_015254.1/HM144386.1	67	67	2010/06/18	2021/10/12	Complete Genome
+Clostridium phage phiCD6356	864178		0	Other	Siphoviridae	37.664	28.4	bacteria	 Unknown:NC_015262.1/GU949551.1	59	59	2010/07/24	2021/10/12	Complete Genome
+Lactococcus phage 949	881953		0	Other	Other	114.768	32.7	bacteria	 Unknown:NC_015263.1/HM029250.1	160	154	2010/09/08	2021/10/12	Complete Genome
+Pseudomonas phage phiIBB-PF7A	942165		0	Other	Autographiviridae	40.973	56.3	bacteria	NC_015264.1/GU583987.1	52	52	2011/01/28	2020/12/20	Complete Genome
+Burkholderia phage KS5	910473		0	Other	Peduoviridae	37.236	63.7	bacteria	 Unknown:NC_015265.1/GU911303.1	46	46	2010/11/22	2021/10/12	Complete Genome
+Burkholderia phage KL3	910474		0	Other	Peduoviridae	40.555	63.2	-	 Unknown:NC_015266.1/GU911304.1	52	52	2010/11/22	2021/10/12	Complete Genome
+Camelus dromedarius papillomavirus 1	996650		0	Other	Papillomaviridae	7.679	45.8	vertebrates	 Unknown:NC_015267.1/HQ912790.1	7	7	2011/03/20	2018/08/13	Complete Genome
+Camelus dromedarius papillomavirus 2	996651		0	Other	Papillomaviridae	7.906	47.2	vertebrates	 Unknown:NC_015268.1/HQ912791.1	7	7	2011/03/20	2018/08/13	Complete Genome
+Salmonella phage Spc35	2991866		0	Other	Demerecviridae	118.351	39.4	bacteria	 Unknown:NC_015269.1/HQ406778.1	145	145	2011/02/03	2020/12/20	Complete Genome
+Enterococcus phage EFRM31	767806		0	Other	Siphoviridae	16.945	34.6	bacteria	 Unknown:NC_015270.1/GU815339.1	23	23	2010/06/02	2020/12/20	Chromosome
+Salmonella phage Vi06	866889		0	Other	Autographiviridae	38.368	48.9	bacteria	NC_015271.1/FR667955.1	51	47	2010/07/23	2021/10/12	Complete Genome
+Pseudomonas phage KPP10	582345		0	Other	Other	88.322	54.8	bacteria	 Unknown:NC_015272.2/AB472900.2	161	158	2010/06/05	2021/10/11	Complete Genome
+Burkholderia phage KS14	910475		0	Other	Peduoviridae	32.317	62.3	bacteria	 Unknown:NC_015273.1/HM461982.1	44	44	2010/11/22	2021/10/12	Complete Genome
+Streptococcus phage Dp-1	59241		0	Other	Siphoviridae	56.506	40.3	bacteria	 Unknown:NC_015274.1/HQ268735.1	72	72	2010/12/18	2021/10/11	Complete Genome
+Erwinia phage phiEa104	925986		0	Other	Other	84.565	43.8	bacteria	 Unknown:NC_015292.1/FQ482083.1	144	118	2010/11/10	2021/10/11	Complete Genome
+Pseudoalteromonas phage H105/1	877240	PRJNA209414	209414	Other	Siphoviridae	30.651	40.8	bacteria	 Unknown:NC_015293.1/HM588722.1	52	52	2010/08/28	2020/12/20	Complete Genome
+Pseudomonas phage PAK_P1	743813		0	Other	Other	93.198	49.5	bacteria	 Unknown:NC_015294.2/KC862297.1	181	181	2011/03/24	2021/10/11	Complete Genome
+Erwinia phage phiEt88	925984		0	Other	Myoviridae	47.279	47.3	bacteria	 Unknown:NC_015295.1/FQ482085.1	69	68	2010/11/10	2021/10/12	Complete Genome
+Ralstonia phage PE226	926543		0	Other	Inoviridae	5.475	61.7	bacteria	 Unknown:NC_015297.1/HM064452.1	9	9	2010/11/20	2018/08/13	Complete Genome
+Sweet potato leaf curl South Carolina virus	999288		0	Other	Geminiviridae	2.782	44	land plants	 DNA A:NC_015317.1/HQ333144.1	6	6	2011/03/30	2018/08/13	Complete Genome
+Vibrio phage ICP2	979533		0	Other	Zobellviridae	49.675	42.7	bacteria	 Unknown:NC_015158.1/HQ641345.1	72	72	2011/02/22	2021/10/12	Complete Genome
+Vibrio phage ICP3	979535		0	Other	Autographiviridae	39.162	42.9	bacteria	NC_015159.1/HQ641340.1	54	54	2011/02/22	2020/12/20	Complete Genome
+Pseudomonas phage phi15	988656		0	Other	Autographiviridae	39.562	58.2	bacteria	NC_015208.1/FR823298.1	50	50	2011/03/01	2020/12/20	Complete Genome
+Fowl aviadenovirus C	190063		0	Other	Adenoviridae	45.81	54.6	vertebrates	HE608152.1	23	49	2012/03/26	2012/03/26	Complete Genome
+Barbel circovirus	759938		0	Other	Circoviridae	1.957	47.4	vertebrates	NC_015399.1/GU799606.1	2	2	2011/04/13	2018/08/13	Complete Genome
+Sandfly fever Turkey virus	688699		0	Other	Phenuiviridae	12.603	43.6384	human,invertebrates	 M:NC_015411.1/GQ847512.2;  S:NC_015413.1/GQ847511.2;  L:NC_015412.1/GQ847513.2	4	4	2010/08/02	2018/08/13	Complete Genome
+Cherry leaf roll virus	12615		0	Other	Secoviridae	14.278	49.8136	land plants	 RNA 1:NC_015414.1/FR851461.1;  RNA 2:NC_015415.1/FR851462.1	2	2	2011/04/21	2018/08/13	Complete Genome
+Chlamydia phage CPG1	90963		0	Other	Microviridae	4.529	41	bacteria	 Unknown:NC_001998.1/U41758.1	9	9	1999/01/02	2018/08/13	Complete Genome
+Potato yellow mosaic Panama virus	223307		0	Other	Geminiviridae	5.126	42.766	land plants	 DNA A:NC_002048.1/Y15034.1;  DNA B:NC_002049.1/Y15033.1	7	7	1997/10/09	2018/08/13	Complete Genome
+Sulfolobus spindle-shaped virus 1	244589		0	Other	Fuselloviridae	15.465	39.7	archaea	 Unknown:NC_001338.1/X07234.1	32	31	1988/07/16	2021/10/11	Complete Genome
+Ictalurid herpesvirus 1	10401		0	Other	Alloherpesviridae	134.226	56.2	vertebrates	 Unknown:NC_001493.2/M75136.2	90	90	1993/08/02	2018/08/13	Complete Genome
+Minute virus of mice	10794		0	Other	Parvoviridae	5.149	42.1	vertebrates	 Unknown:NC_001510.1/J02275.1	3	7	1993/08/02	2018/08/13	Complete Genome
+Bovine parvovirus	10784		0	Other	Parvoviridae	5.517	48.8	vertebrates	 Unknown:NC_001540.1/M14363.1	4	4	1993/08/03	2018/08/13	Complete Genome
+Arabis mosaic virus small satellite RNA	196399		0	Satellites	unclassified	0.3	53	-	 Unknown:NC_001546.1/M21212.1	-	-	1993/08/03	2018/08/13	Complete Genome
+Iotapapillomavirus 1	10567		0	Other	Papillomaviridae	7.687	50.2	vertebrates	 Unknown:NC_001605.1/U01834.1	6	6	1993/12/23	2018/08/13	Complete Genome
+Human papillomavirus type 48	40538		0	Other	Papillomaviridae	7.1	36.8	human	NC_001690.1/U31789.1	7	7	1995/10/17	2018/08/13	Complete Genome
+Human papillomavirus type 60	40540		0	Other	Papillomaviridae	7.313	37	human	NC_001693.1/U31792.1	7	7	1995/10/18	2018/08/13	Complete Genome
+Lactobacillus phage c2	2681624		0	Other	Other	22.172	36.3	bacteria	 Unknown:NC_001706.1/L48605.1	41	39	1996/01/03	2021/10/11	Complete Genome
+Adeno-associated virus - 4	57579		0	Other	Parvoviridae	4.767	57.4	human,vertebrates	 Unknown:NC_001829.1/U89790.1	2	2	1997/08/21	2018/08/13	Complete Genome
+Petunia vein clearing virus	59504		0	Other	Caulimoviridae	7.206	38.2	land plants	 Unknown:NC_001839.2/U95208.2	1	1	1997/10/03	2018/08/13	Complete Genome
+Spiroplasma phage SVTS2	93224		0	Other	Plectroviridae	6.825	22.7	bacteria	 Unknown:NC_001270.2/AF133242.2	13	13	1999/12/16	2018/08/13	Complete Genome
+Bacillus phage SPBc2	2932878		0	Other	Other	134.416	34.6	bacteria	 Unknown:NC_001884.1/AF020713.1	185	185	1998/04/06	2022/04/07	Complete Genome
+Bacteriophage P2	2905681		0	Other	Peduoviridae	33.593	50.2	bacteria	 Unknown:NC_001895.1/AF063097.1	43	43	1998/05/19	2021/12/22	Complete Genome
+Sweet potato golden vein associated virus	688540		0	Other	Geminiviridae	2.824	44.8	land plants	 DNA A:NC_015324.1/HQ333143.1	6	6	2011/03/30	2018/08/13	Complete Genome
+Zalophus californianus papillomavirus 1	998829		0	Other	Papillomaviridae	7.584	58.5	vertebrates	 Unknown:NC_015325.1/HQ293213.1	7	7	2011/03/27	2018/08/13	Complete Genome
+Lausannevirus	999883		0	Other	Marseilleviridae	346.754	42.9	protozoa	 Unknown:NC_015326.1/HQ113105.1	444	444	2011/03/29	2021/10/12	Complete Genome
+Sweet potato collusive virus	930168		0	Other	Caulimoviridae	7.723	25.7	land plants	 Unknown:NC_015328.1/HQ694978.1	4	4	2011/04/04	2018/08/13	Complete Genome
+Chandiru virus	629725		0	Other	Phenuiviridae	12.495	39.5243	human,invertebrates,vertebrates	 L:NC_015374.1/HM119407.1;  M:NC_015373.1/HM119408.1;  S:NC_015375.1/HM119409.1	4	4	2011/04/02	2018/08/13	Complete Genome
+Celery mosaic virus	112436		0	Other	Potyviridae	9.999	40.8	land plants	NC_015393.1/HQ676607.1	2	2	2011/04/11	2018/08/13	Complete Genome
+Hardenbergia mosaic virus	409486		0	Other	Potyviridae	9.682	41.6	land plants	NC_015394.2/HQ161081.1	2	2	2011/04/11	2018/08/13	Complete Genome
+Hardenbergia virus A	1003891		0	Other	Betaflexiviridae	6.942	38.1	land plants	 Unknown:NC_015395.1/HQ241409.1	2	2	2011/04/11	2018/08/13	Complete Genome
+Avian gyrovirus 2	1002273		0	Other	Anelloviridae	2.383	53.6	human,vertebrates	 Unknown:NC_015396.1/HM590588.1	3	3	2011/04/11	2018/08/13	Complete Genome
+Cleome golden mosaic virus	858517		0	Other	Geminiviridae	2.566	49.5	land plants	 DNA A:NC_015397.1/HQ396465.1	3	3	2011/04/11	2018/08/13	Complete Genome
+Clostera anachoreta granulovirus	283675		0	Other	Baculoviridae	101.487	44.4	invertebrates	 Unknown:NC_015398.1/HQ116624.1	123	123	2011/04/11	2018/08/13	Complete Genome
+Diatraea saccharalis densovirus	72003		0	Other	Parvoviridae	5.941	35.5	invertebrates	 Unknown:NC_001899.1/AF036333.1	7	7	1998/06/02	2018/08/13	Complete Genome
+Bean dwarf mosaic virus	10838		0	Other	Geminiviridae	5.191	44.606	-	 DNA A:NC_001931.1/M88179.1;  DNA B:NC_001930.1/M88180.1	6	6	1992/03/16	2018/08/13	Complete Genome
+Squash leaf curl virus	10829		0	Other	Geminiviridae	5.241	44.0539	land plants	 DNA A:NC_001936.1/M38183.1;  DNA B:NC_001937.1/M38182.1	6	6	1992/06/15	2018/08/13	Complete Genome
+Escherichia phage If1	10868		0	Other	Inoviridae	8.454	43.7	bacteria	 Unknown:NC_001954.1/U02303.1	10	10	1993/10/01	2018/08/13	Complete Genome
+Ateline gammaherpesvirus 3	85618		0	Other	Herpesviridae	108.409	36.6	vertebrates	 Unknown:NC_001987.1/AF083424.1	73	71	1998/12/16	2018/08/13	Complete Genome
+Melanoplus sanguinipes entomopoxvirus	83191		0	Other	Poxviridae	236.12	18.3	invertebrates	 Unknown:NC_001993.1/AF063866.1	267	267	1998/12/18	2020/12/20	Complete Genome
+Escherichia phage T4	2681598		0	Other	Straboviridae	168.903	35.3	bacteria	 Unknown:NC_000866.4/AF158101.6	288	278	1999/07/05	2021/10/11	Complete Genome
+Pepper leaf curl virus	83839		0	Other	Geminiviridae	2.744	43.5	land plants	 DNA A:NC_000882.1/AF134484.2	6	6	1999/08/02	2018/08/13	Complete Genome
+Escherichia phage HK022	2681618		0	Other	Other	40.751	49.5	bacteria	 Unknown:NC_002166.1/AF069308.1	35	35	2000/02/04	2021/10/28	Complete Genome
+Streptococcus phage 7201	2905727		0	Other	Other	35.466	38.7	bacteria	 Unknown:NC_002185.1/AF145054.1	46	46	2000/03/16	2021/12/22	Complete Genome
+Streptococcus phage Sfi19	2905685		0	Other	Other	37.37	38.3	bacteria	 Unknown:NC_000871.1/AF115102.1	45	45	1999/07/09	2021/12/22	Complete Genome
+Fowlpox virus	10261		0	Other	Poxviridae	288.539	30.9	vertebrates	 Unknown:NC_002188.1/AF198100.1	260	261	2000/03/21	2020/12/20	Complete Genome
+Porcine circovirus 1	133704		0	Other	Circoviridae	1.758	48.4	human,vertebrates	NC_001792.2/AF071879.1	2	2	1998/09/09	2018/08/13	Complete Genome
+Brussowvirus Sfi11	78541		0	Other	Other	39.807	38.6	bacteria	 Unknown:NC_002214.1/AF158600.2	51	51	2000/04/07	2021/10/11	Complete Genome
+Porcine parvovirus	10796		0	Other	Parvoviridae	5.075	37.9	vertebrates	 Unknown:NC_001718.1/L23427.1	3	6	1993/08/22	2018/08/13	Complete Genome
+Cassava vein mosaic virus	38062		0	Other	Caulimoviridae	8.159	24.9	land plants	 Unknown:NC_001648.1/U59751.1	5	5	1996/07/02	2018/08/13	Complete Genome
+Oryctolagus cuniculus papillomavirus 1	2772507		0	Other	Papillomaviridae	7.565	44.4	-	 Unknown:NC_002232.1/AF227240.1	9	9	2000/05/02	2020/11/20	Complete Genome
+Torque teno mini virus 9	687377		0	Other	Anelloviridae	2.915	38.3	-	 Unknown:NC_002195.1/AB038625.1	3	3	2000/04/04	2018/08/13	Complete Genome
+Pepper huasteco yellow vein virus	223303		0	Other	Geminiviridae	5.22	41.7129	land plants	 DNA A:NC_001359.1/X70418.1;  DNA B:NC_001369.1/X70419.1	7	7	1993/02/17	2018/08/13	Complete Genome
+adeno-associated virus 2	10804		0	Other	Parvoviridae	4.679	53.8	human,vertebrates	 Unknown:NC_001401.2/AF043303.1	11	9	1993/04/27	2018/08/13	Complete Genome
+Potato yellow mosaic virus	10827		0	Other	Geminiviridae	5.14	43.3125	land plants	 DNA A:NC_001934.1/D00940.1;  DNA B:NC_001935.1/D00941.1	6	6	1993/04/29	2018/08/13	Complete Genome
+Chloris striate mosaic virus	10820		0	Other	Geminiviridae	2.75	53.6	land plants	 Unknown:NC_001466.1/M20021.1	4	5	1993/08/02	2018/08/13	Complete Genome
+Digitaria streak virus	10837		0	Other	Geminiviridae	2.701	49.7	-	 Unknown:NC_001478.1/M23022.1	4	4	1992/03/23	2018/08/13	Complete Genome
+Ground squirrel hepatitis virus	10406		0	Other	Hepadnaviridae	3.311	43.4	vertebrates	 Unknown:NC_001484.1/K02715.1	4	4	1993/08/02	2018/08/13	Complete Genome
+Tomato golden mosaic virus	10831		0	Other	Geminiviridae	5.096	41.7235	land plants	 DNA A:NC_001507.1/K02029.1;  DNA B:NC_001508.1/K02030.1	7	7	1987/02/16	2018/08/13	Complete Genome
+Deltapapillomavirus 2	10564		0	Other	Papillomaviridae	8.374	47.5	vertebrates	 Unknown:NC_001523.1/M11910.1	9	9	1993/08/02	2020/09/18	Complete Genome
+Kappapapillomavirus 2	10623		0	Other	Papillomaviridae	7.868	46.4	vertebrates	 Unknown:NC_001541.1/K02708.1	10	10	1987/08/31	2018/08/13	Complete Genome
+Pseudomonas phage Pf3	10872		0	Other	Inoviridae	5.833	45.4	bacteria	 Unknown:NC_001418.1/M11912.1	9	9	1993/04/28	2018/08/13	Complete Genome
+Enterobacteria phage PRD1	10658		0	Other	Tectiviridae	14.927	48.1	bacteria	 Unknown:NC_001421.2/AY848689.1	31	31	1993/04/28	2020/12/20	Complete Genome
+Aleutian mink disease virus	28314		0	Other	Parvoviridae	4.801	38.6	vertebrates	 Unknown:NC_001662.1/M20036.1	4	4	1993/08/02	2018/08/13	Complete Genome
+Haemophilus phage HP1	2992577		0	Other	Peduoviridae	32.355	40	bacteria	 Unknown:NC_001697.1/U24159.1	42	42	1995/10/31	2021/10/11	Complete Genome
+Tomato mottle virus	10835		0	Other	Geminiviridae	5.145	42.9672	land plants	 DNA A:NC_001938.1/L14460.1;  DNA B:NC_001939.1/L14461.1	6	6	1993/04/28	2018/08/13	Complete Genome
+Lymphocystis disease virus 1	36363		0	Other	Iridoviridae	102.653	29.1	vertebrates	 Unknown:NC_001824.1/L63545.1	110	110	1997/07/24	2020/12/20	Complete Genome
+Tomato mottle Taino virus	223358		0	Other	Geminiviridae	5.159	44.0605	land plants	 DNA A:NC_001828.1/AF012300.1;  DNA B:NC_001917.1/AF012301.1	10	6	1997/08/09	2018/08/13	Complete Genome
+Sida golden mosaic virus	51034		0	Other	Geminiviridae	5.227	46.7022	land plants	 DNA A:NC_002046.1/AF049336.1;  DNA B:NC_002047.1/AF039841.1	7	7	1998/01/06	2018/08/13	Complete Genome
+Orgyia pseudotsugata multiple nucleopolyhedrovirus	262177		0	Other	Baculoviridae	131.995	55.1	invertebrates	 Unknown:NC_001875.2/U75930.2	152	152	1997/03/27	2018/08/13	Complete Genome
+Escherichia phage N15	1604876		0	Other	Other	46.375	51.2	bacteria	 Unknown:NC_001901.1/AF064539.1	60	60	1998/05/29	2021/10/28	Complete Genome
+Vibrio phage fs2	83201		0	Other	Inoviridae	8.651	44.5	bacteria	 Unknown:NC_001956.1/AB002632.1	9	9	1998/10/06	2018/08/13	Complete Genome
+Bombyx mori nucleopolyhedrovirus	271108		0	Other	Baculoviridae	128.413	40.4	invertebrates	 Unknown:NC_001962.1/L33180.1	143	143	1996/01/18	2018/08/13	Complete Genome
+Human parvovirus B19	10798		0	Other	Parvoviridae	5.596	43.8	human,vertebrates	 Unknown:NC_000883.2/AY386330.1	6	6	1999/08/02	2018/08/13	Complete Genome
+Periplaneta fuliginosa densovirus	97344		0	Other	Parvoviridae	5.454	38.1	-	 Unknown:NC_000936.1/AF192260.1	8	8	1999/10/27	2018/08/13	Complete Genome
+Xestia c-nigrum granulovirus	51677		0	Other	Baculoviridae	178.733	40.7	invertebrates	 Unknown:NC_002331.1/AF162221.1	181	181	1999/11/02	2018/08/13	Complete Genome
+Vibrio phage VfO3K6	127507		0	Other	Inoviridae	8.784	45.2	bacteria	 Unknown:NC_002362.1/AB043678.1	10	10	2000/06/03	2018/08/13	Complete Genome
+Vibrio phage VfO4K68	127508		0	Other	Inoviridae	6.891	47.2	bacteria	 Unknown:NC_002363.1/AB043679.1	8	8	2000/06/03	2018/08/13	Complete Genome
+Panicum streak virus	10826		0	Other	Geminiviridae	2.736	54.5	land plants	GQ415395.1	-	3	2009/12/23	2009/12/23	Complete Genome
+Amsacta moorei entomopoxvirus	28321		0	Other	Poxviridae	232.392	17.8	invertebrates	 Unknown:NC_002520.1/AF250284.1	294	294	2000/08/30	2020/12/20	Complete Genome
+Goose parvovirus	38251		0	Other	Parvoviridae	5.106	46.9	vertebrates	 Unknown:NC_001701.1/U25749.1	4	4	1995/12/12	2018/08/13	Complete Genome
+Alcelaphine gammaherpesvirus 1	35252		0	Other	Herpesviridae	130.608	46.2	vertebrates	 Unknown:NC_002531.1/AF005370.1	71	71	1997/08/21	2018/08/13	Complete Genome
+Horseradish curly top virus	46448		0	Other	Geminiviridae	3.08	41.1	-	 Unknown:NC_002543.1/U49907.1	6	6	1996/04/04	2018/08/13	Complete Genome
+Tomato rugose mosaic virus	134599		0	Other	Geminiviridae	5.194	41.3289	land plants	 DNA A:NC_002555.1/AF291705.1;  DNA B:NC_002556.1/AF291706.1	7	7	2000/09/25	2018/08/13	Complete Genome
+Trichoplusia ni cypovirus 15	134606		0	Other	Spinareoviridae	25.12	36.4019	invertebrates	 RNA 1:NC_002557.1/AF291683.1;  RNA 2:NC_002558.1/AF291684.1;  RNA 3:NC_002559.1/AF291685.1;  RNA 4:NC_002567.1/AF291686.3;  RNA 5:NC_002560.1/AF291687.1;  RNA 6:NC_002561.1/AF291688.1;  RNA 7:NC_002562.1/AF291689.1;  RNA 8:NC_002563.1/AF291690.1;  RNA 9:NC_002564.1/AF291691.1;  RNA 10:NC_002565.1/AF291692.1;  RNA 11:NC_002566.1/AF291693.1	1	1	2000/08/14	2018/08/13	Complete Genome
+Gallid alphaherpesvirus 3	35250		0	Other	Herpesviridae	165.994	53.7	vertebrates	HQ840738.1	124	124	2011/06/20	2011/06/20	Complete Genome
+Meleagrid alphaherpesvirus 1	37108		0	Other	Herpesviridae	159.16	47.6	vertebrates	 Unknown:NC_002641.1/AF291866.1	79	79	2001/01/04	2018/08/13	Complete Genome
+Bdellovibrio phage phiMH2K	145579		0	Other	Microviridae	4.594	46.1	bacteria	 Unknown:NC_002643.1/AF306496.1	11	11	2001/01/03	2018/08/13	Complete Genome
+Mycobacterium phage Bxb1	2902907		0	Other	Other	50.55	63.6	bacteria	NC_002656.1/AF271693.1	86	86	2001/01/28	2021/12/20	Complete Genome
+Bovine gammaherpesvirus 4	10385		0	Other	Herpesviridae	108.873	41.4	vertebrates	 Unknown:NC_002665.1/AF318573.1	79	79	2001/02/14	2018/08/13	Complete Genome
+Lactococcus phage bIL285	151535		0	Other	Siphoviridae	35.538	35.2	bacteria	 Unknown:NC_002666.1/AF323668.1	62	62	2001/02/15	2021/10/11	Complete Genome
+Lactococcus phage bIL310	151538		0	unclassified phages	unclassified	14.957	35.9	bacteria	 Unknown:NC_002669.1/AF323671.1	29	29	2001/02/15	2021/10/11	Complete Genome
+Lactococcus phage bIL312	151539		0	unclassified phages	unclassified	15.179	33	bacteria	 Unknown:NC_002671.1/AF323673.1	27	27	2001/02/15	2021/10/11	Complete Genome
+Ectocarpus siliculosus virus 1	37665		0	Other	Phycodnaviridae	335.593	51.7	eukaryotic algae	 Unknown:NC_002687.1/AF204951.2	240	240	2001/02/27	2020/12/20	Complete Genome
+Enterobacteria phage HK620	155148		0	Other	Other	38.297	46.7	bacteria	 Unknown:NC_002730.1/AF335538.1	58	58	2001/04/03	2021/10/11	Complete Genome
+Lactococcus phage TP901-1	35345		0	Other	Siphoviridae	37.667	35.4	bacteria	 Unknown:NC_002747.1/AF304433.1	56	56	2001/04/18	2021/10/11	Complete Genome
+Discula destructiva virus 1	148880		0	Other	Partitiviridae	3.372	49.5032	fungi	 RNA 1:NC_002797.1/AF316992.1;  RNA 2:NC_002800.1/AF316993.1	2	2	2001/01/28	2018/08/13	Complete Genome
+Cydia pomonella granulovirus	28289		0	Other	Baculoviridae	123.5	45.3	invertebrates	 Unknown:NC_002816.1/U53466.2	143	143	2001/04/02	2018/08/13	Complete Genome
+Tobacco leaf curl Zimbabwe virus	223337		0	Other	Geminiviridae	2.767	43.4	land plants	 DNA A:NC_002817.1/AF350330.1	6	6	2001/07/02	2018/08/13	Complete Genome
+Ageratum yellow vein Sri Lanka virus	222079		0	Other	Geminiviridae	2.748	42.6	-	 DNA A:NC_002981.1/AF314144.1	6	6	2001/07/04	2018/08/13	Complete Genome
+Cucurbit leaf crumple virus	134681		0	Other	Geminiviridae	5.232	44.0558	land plants	 DNA A:NC_002984.1/AF224760.2;  DNA B:NC_002985.1/AF224761.2	6	6	2000/02/09	2018/08/13	Complete Genome
+Lumpy skin disease virus NI-2490	376849		0	Other	Poxviridae	150.773	25.9	vertebrates	 Unknown:NC_003027.1/AF325528.1	156	156	2001/07/22	2020/12/20	Complete Genome
+Sugarcane bacilliform IM virus	362398		0	Other	Caulimoviridae	7.687	43.1	-	 Unknown:NC_003031.1/AJ277091.1	3	3	2001/07/26	2018/08/13	Complete Genome
+Invertebrate iridescent virus 6	176652		0	Other	Iridoviridae	212.482	28.6	invertebrates	 Unknown:NC_003038.1/AF303741.1	463	468	2001/07/31	2020/12/20	Complete Genome
+Okra leaf curl Mali virus	454129		0	Other	Geminiviridae	2.78	45.1	land plants	 DNA A:EU024120.1	6	6	2007/07/23	2009/03/18	Complete Genome
+Plutella xylostella granulovirus	98383		0	Other	Baculoviridae	100.999	40.7	invertebrates	 Unknown:NC_002593.1/AF270937.1	121	120	2000/10/29	2018/08/13	Complete Genome
+Escherichia phage Mu	2681603		0	Other	Other	36.717	52.1	bacteria	 Unknown:NC_000929.1/AF083977.1	55	55	1999/10/05	2022/01/20	Complete Genome
+Goose circovirus	146032		0	Other	Circoviridae	1.821	49.2	vertebrates	NC_003054.1/AJ304456.1	4	4	2001/08/07	2018/08/13	Complete Genome
+Porcine endogenous retrovirus E	168238		0	Other	Retroviridae	8.072	48	human,vertebrates	 Unknown:NC_003059.1/AF356697.1	-	-	2001/08/12	2018/08/13	Complete Genome
+Epiphyas postvittana nucleopolyhedrovirus	70600		0	Other	Baculoviridae	118.584	40.7	invertebrates	 Unknown:NC_003083.1/AY043265.1	137	136	2001/08/19	2018/08/13	Complete Genome
+Culex nigripalpus nucleopolyhedrovirus	130556		0	Other	Baculoviridae	108.252	50.9	-	 Unknown:NC_003084.1/AF403738.1	109	109	2001/08/22	2018/08/13	Complete Genome
+Blueberry red ringspot virus	172220		0	Other	Caulimoviridae	8.303	31.1	land plants	 Unknown:NC_003138.2/AF404509.2	8	8	2001/10/11	2018/08/13	Complete Genome
+Lactococcus phage Tuc2009	35241		0	Other	Siphoviridae	38.347	36.2	bacteria	 Unknown:NC_002703.1/AF109874.2	56	56	1999/06/08	2021/10/11	Complete Genome
+Sulfolobus islandicus filamentous virus	176106		0	Other	Lipothrixviridae	40.9	33.4	archaea	 Unknown:NC_003214.2/AF440571.2	73	73	2001/11/06	2020/12/20	Complete Genome
+Streptococcus phage Sfi21	2905688		0	Other	Other	40.739	37.6	bacteria	 Unknown:NC_000872.1/AF115103.1	50	50	1999/07/09	2021/12/22	Complete Genome
+Spodoptera exigua multiple nucleopolyhedrovirus	10454		0	Other	Baculoviridae	135.611	43.8	invertebrates	 Unknown:NC_002169.1/AF169823.1	142	139	1999/12/29	2018/08/13	Complete Genome
+Staphylococcus prophage phiPV83	129009		0	Other	Other	45.636	33.5	bacteria	 Unknown:NC_002486.1/AB044554.1	65	65	2000/07/04	2021/10/11	Complete Genome
+Mycoplasma phage P1	2905920		0	Other	Other	11.66	26.8	bacteria	 Unknown:NC_002515.1/AF246223.1	11	11	2000/08/22	2022/01/06	Complete Genome
+Staphylococcus phage phiSLT	2952367		0	Other	Other	42.942	33.3	bacteria	 Unknown:NC_002661.2/AB045978.2	61	61	2001/02/07	2022/06/15	Complete Genome
+Spodoptera litura nucleopolyhedrovirus	46242		0	Other	Baculoviridae	139.342	42.8	invertebrates	 Unknown:NC_003102.1/AF325155.1	141	141	2001/09/11	2018/08/13	Complete Genome
+Lactococcus phage bIL311	151534		0	unclassified phages	unclassified	14.51	34.2	bacteria	 Unknown:NC_002670.1/AF323672.1	22	22	2001/02/15	2021/10/11	Complete Genome
+Phietavirus ETA	106284		0	Other	Other	43.081	35.4	bacteria	 Unknown:NC_003288.1/AP001553.1	66	66	2000/07/04	2021/10/11	Complete Genome
+Bacteriophage K139	2905721		0	Other	Peduoviridae	33.106	48.9	bacteria	 Unknown:NC_003313.1/AF125163.2	44	44	1999/03/29	2021/12/22	Complete Genome
+Streptococcus phage phiNIH1.1	173707		0	Other	Siphoviridae	43.106	38.6	-	 Unknown:NC_003157.5/AY050245.2	56	56	2001/10/07	2022/06/05	Complete Genome
+Sinorhizobium phage PBC5	179237		0	Other	Podoviridae	57.416	61.5	bacteria	 Unknown:NC_003324.1/AF448724.1	60	60	2001/12/20	2021/10/11	Complete Genome
+Soybean crinkle leaf virus	85753		0	Other	Geminiviridae	2.737	42.8	land plants	 DNA A:NC_003357.1/AB050781.1	8	8	2002/01/05	2018/08/13	Complete Genome
+Tobacco vein clearing virus	107324		0	Other	Caulimoviridae	7.767	27.2	land plants	 Unknown:NC_003378.1/AF190123.1	4	4	1999/11/15	2018/08/13	Complete Genome
+Miscanthus streak virus - [91]	268776		0	Other	Geminiviridae	2.672	50.7	land plants	 Unknown:NC_003379.1/D01030.1	5	5	1993/04/29	2018/08/13	Complete Genome
+Rice yellow mottle virus satellite	195056		0	Satellites	unclassified	0.22	63.6	-	 Unknown:NC_003380.1/AF039909.1	2	1	1998/01/10	2018/08/13	Complete Genome
+Citrus yellow mosaic virus	174178		0	Other	Caulimoviridae	7.559	43.6	land plants	 Unknown:NC_003382.1/AF347695.1	6	6	2001/10/25	2018/08/13	Complete Genome
+Mycobacterium phage TM4	88870		0	Other	Other	52.797	68.1	bacteria	 Unknown:NC_003387.1/AF068845.1	89	89	1999/02/24	2020/12/20	Complete Genome
+Swinepox virus	10276		0	Other	Poxviridae	146.454	27.4	vertebrates	 Unknown:NC_003389.1/AF410153.1	150	150	2002/01/31	2020/12/20	Complete Genome
+Camelpox virus	28873		0	Other	Poxviridae	205.719	33.2	human,vertebrates	 Unknown:NC_003391.1/AF438165.1	211	211	2002/02/04	2020/12/20	Complete Genome
+Human gammaherpesvirus 8	37296		0	Other	Herpesviridae	137.969	53.8	human,vertebrates	 Unknown:NC_009333.1/AF148805.2	96	86	1999/08/02	2019/06/04	Complete Genome
+Methanobacterium phage psiM2	77048		0	Other	Leisingerviridae	26.111	46.3	archaea	 Unknown:NC_001902.1/AF065411.1	32	32	1998/06/24	2021/10/11	Complete Genome
+Spiroplasma phage 4	2928746		0	Other	Microviridae	4.421	32.1	bacteria	 Unknown:NC_003438.1/M17988.1	9	9	1993/08/03	2022/03/24	Complete Genome
+Enterobacteria phage SfV	55884		0	Other	Myoviridae	37.074	50.8	bacteria	 Unknown:NC_003444.1/U82619.2	53	53	1997/10/04	2021/10/11	Complete Genome
+Propionibacterium phage B5	189836		0	Other	Paulinoviridae	5.804	64.3	bacteria	 Unknown:NC_003460.1/AF428260.1	10	10	2002/03/21	2018/08/13	Complete Genome
+Atkinsonella hypoxylon virus	37961		0	Other	Partitiviridae	4.315	40.4276	fungi	 1:NC_003470.1/L39125.1;  2:NC_003471.1/L39126.1	2	2	1995/01/27	2018/08/13	Complete Genome
+Bean calico mosaic virus	31602		0	Other	Geminiviridae	5.175	41.1617	land plants	 DNA A:NC_003504.1/AF110189.1;  DNA B:NC_003505.1/AF110190.1	7	7	1999/04/04	2018/08/13	Complete Genome
+Clostridium phage phi3626	190478		0	Other	Siphoviridae	33.507	28.4	bacteria	 Unknown:NC_003524.1/AY082070.1	50	50	2002/04/02	2021/10/11	Complete Genome
+Mamestra configurata nucleopolyhedrovirus A	207830		0	Other	Baculoviridae	155.06	41.7	invertebrates	 Unknown:NC_003529.1/U59461.2	169	169	1997/03/29	2018/08/13	Complete Genome
+Cereal yellow dwarf virus-RPV satellite RNA	191032		0	Satellites	unclassified	0.322	50	-	 Unknown:NC_003533.1/M63666.1	-	-	1991/07/31	2018/08/13	Complete Genome
+Eupatorium yellow vein virus-[SOJ3]	335404		0	Other	Geminiviridae	2.778	43.1	land plants	 DNA A:NC_038879.1/AJ438937.1	6	6	2003/01/06	2018/08/24	Complete Genome
+Honeysuckle yellow vein mosaic virus	180587		0	Other	Geminiviridae	2.757	43.8	land plants	 DNA A:NC_003609.1/AB020781.1	6	6	2000/08/01	2018/08/13	Complete Genome
+Milk vetch dwarf virus	67585		0	Other	Nanoviridae	7.911	39.5075	land plants	 DNA C:NC_003641.1/AB000923.1;  DNA 5:NC_003642.1/AB000924.1;  DNA 6:NC_003643.1/AB000925.1;  DNA 7:NC_003644.1/AB000926.1;  DNA 8:NC_003645.1/AB000927.1;  DNA 9:NC_003646.1/AB009046.1;  DNA 11:NC_003648.1/AB027511.1;  DNA U4:NC_023626.1/AB255373.1	8	8	1998/10/27	2018/08/13	Complete Genome
+Bhendi yellow vein mosaic virus	120168		0	Other	Geminiviridae	2.747	43	land plants	 DNA A:EU589392.1	6	6	2008/04/15	2008/04/15	Complete Genome
+Cowpox virus	10243		0	Other	Poxviridae	224.499	33.4	human,vertebrates	 Unknown:NC_003663.2/AF482758.2	233	233	2002/04/16	2020/12/20	Complete Genome
+Tomato chlorotic mottle virus-Crumple	223339		0	Other	Geminiviridae	2.625	43.7	land plants	 DNA A:AY090557.1	6	6	2002/04/17	2004/06/18	Complete Genome
+Watermelon chlorotic stunt virus	35341		0	Other	Geminiviridae	5.498	47.3996	land plants	 DNA A:NC_003708.1/AJ012081.1;  DNA B:NC_003709.1/AJ012082.1	8	8	2000/12/13	2018/08/13	Complete Genome
+Sugarcane streak virus	10836		0	Other	Geminiviridae	2.758	50.7	land plants	 Unknown:NC_003744.1/M82918.1	3	3	1993/08/03	2018/08/13	Complete Genome
+Spiroplasma phage C74	185959		0	Other	Plectroviridae	7.768	23.2	bacteria	 Unknown:NC_003793.1/U28974.1	13	13	1996/01/01	2018/08/13	Complete Genome
+South African cassava mosaic virus	63723		0	Other	Geminiviridae	5.56	44.9115	land plants	 DNA A:NC_003803.1/AF155806.1;  DNA B:NC_003804.1/AF155807.2	8	8	2000/02/20	2018/08/13	Complete Genome
+Subterranean clover stunt virus	36772		0	Other	Nanoviridae	7.989	38.4045	land plants	 DNA R:MK035728.1;  DNA S:MK035729.1;  DNA C:MK035730.1;  DNA M:MK035731.1;  DNA N:MK035732.1;  DNA U1:MK035733.1;  DNA U2:MK035734.1;  DNA U4:MK035735.1	8	8	2019/02/20	2019/02/20	Complete Genome
+Tobacco yellow dwarf virus	10830		0	Other	Geminiviridae	2.58	43.4	land plants	 Unknown:NC_003822.1/M81103.1	4	4	1993/08/03	2018/08/13	Complete Genome
+Tomato golden mottle virus	223342		0	Other	Geminiviridae	5.172	41.8625	land plants	 DNA B:NC_008057.1/DQ406674.1;  DNA A:NC_008058.1/DQ520943.1	7	7	2006/03/25	2018/08/13	Complete Genome
+Chino del tomate virus	47838		0	Other	Geminiviridae	5.213	45.019	land plants	 DNA A:NC_003830.1/AF101476.1;  DNA B:NC_003831.1/AF101478.1	7	7	1999/03/04	2018/08/13	Complete Genome
+Solanum nodiflorum mottle virus satellite RNA	195061		0	Satellites	unclassified	0.377	56.2	-	 Unknown:NC_003850.1/J02386.1	-	-	1990/06/15	2018/08/13	Complete Genome
+Dicliptera yellow mottle virus	94700		0	Other	Geminiviridae	2.608	40.4	land plants	 DNA A:AJ549960.1	4	4	2003/03/14	2005/04/15	Complete Genome
+Cabbage leaf curl virus	51336		0	Other	Geminiviridae	5.096	42.7837	land plants	chromosome DNA A:NC_003866.1/U65529.2; chromosome DNA B:NC_003887.1/U65530.2	8	7	1996/11/01	2018/08/13	Complete Genome
+Tomato mosaic Havana virus-[Quivican]	223357		0	Other	Geminiviridae	5.206	43.6608	land plants	 DNA A:NC_003867.1/Y14874.1;  DNA B:NC_003868.1/Y14875.1	7	7	1998/09/04	2018/08/13	Complete Genome
+Tobacco ringspot virus satellite RNA	31504		0	Satellites	unclassified	0.359	54.9	invertebrates	 Unknown:NC_003889.1/M14879.1	-	-	1989/06/15	2018/08/13	Complete Genome
+Melon chlorotic leaf curl virus-[Guatemala]	223286		0	Other	Geminiviridae	5.3	42.3036	land plants	 DNA A:NC_004732.1/AF325497.1;  DNA B:NC_028138.1/AF325498.2	6	6	2001/08/02	2018/08/13	Complete Genome
+Tomato leaf curl Bangalore virus-[Ban5]	220933		0	Other	Geminiviridae	2.759	41.8	land plants	 DNA A:AF295401.1	6	6	2001/03/15	2005/11/30	Complete Genome
+Tomato leaf curl virus	28350		0	Other	Geminiviridae	2.766	43.6	land plants	 DNA A:NC_003896.1/S53251.1	6	6	1993/05/08	2018/08/13	Complete Genome
+Velvet tobacco mottle virus Satellite RNA	196095		0	Satellites	unclassified	0.366	55.7	land plants	 Unknown:NC_003906.1/J02439.1	-	-	1987/05/20	2018/08/13	Complete Genome
+Psittacus erithacus papillomavirus 1	2773288		0	Other	Papillomaviridae	7.304	49.3	vertebrates	 Unknown:NC_003973.1/AF502599.1	6	6	2002/06/02	2020/11/20	Complete Genome
+Sheeppox virus	10266		0	Other	Poxviridae	149.955	25	vertebrates	 Unknown:NC_004002.1/AY077832.1	148	148	2002/06/05	2020/12/20	Complete Genome
+Tomato leaf curl Karnataka virus	220932		0	Other	Geminiviridae	2.759	42.5	land plants	 DNA A:NC_003897.1/U38239.1	6	6	1995/10/24	2018/08/13	Complete Genome
+Tomato leaf curl Taiwan virus	196093		0	Other	Geminiviridae	2.743	43	land plants	 DNA A:DQ866128.1	6	6	2006/09/18	2006/09/18	Complete Genome
+Goatpox virus Pellor	376852		0	Other	Poxviridae	149.599	25.3	vertebrates	 Unknown:NC_004003.1/AY077835.1	150	150	2002/06/05	2020/12/20	Complete Genome
+Ovine adenovirus 7	114430		0	Other	Adenoviridae	29.576	33.6	vertebrates	 Unknown:NC_004037.2/U40839.3	44	30	1996/12/28	2020/12/20	Complete Genome
+Bean golden mosaic virus	10839		0	Other	Geminiviridae	5.197	39.5135	land plants	 DNA A:NC_004042.1/M88686.1;  DNA B:NC_004043.1/M88687.1	6	6	1992/03/17	2018/08/13	Complete Genome
+Bean golden yellow mosaic virus-[Dominican Republic]	222445		0	Other	Geminiviridae	5.255	39.7193	land plants	 DNA A:NC_038791.1/L01635.1;  DNA B:NC_038790.1/L01636.1	5	5	1992/09/11	2018/08/25	Complete Genome
+Satellites of Trichomonas vaginalis T1 virus	198608		0	Satellites	unclassified	0.497	48.1	protozoa	 Unknown:NC_004048.1/U15991.1	1	-	1995/09/14	2018/08/13	Complete Genome
+Phthorimaea operculella granulovirus	192584		0	Other	Baculoviridae	119.217	35.7	invertebrates	 Unknown:NC_004062.1/AF499596.1	130	130	2002/07/01	2018/08/13	Complete Genome
+Mycobacterium phage D29	2905674		0	Other	Other	49.127	63.5	bacteria	NC_001900.2/AF022214.2	82	77	1998/06/02	2021/12/22	Complete Genome
+Escherichia phage Lambda	2681611		0	Other	Other	48.502	49.9	bacteria	 Unknown:NC_001416.1/J02459.1	92	73	1993/04/28	2021/10/11	Complete Genome
+Etapapillomavirus 1	197771		0	Other	Papillomaviridae	7.729	47.7	vertebrates	 Unknown:NC_004068.1/AY057109.1	6	6	2002/07/10	2018/08/13	Complete Genome
+Hollyhock leaf crumple virus	199587		0	Other	Geminiviridae	2.755	43	land plants	 DNA A:NC_004071.1/AY036009.1	6	6	2002/01/08	2018/08/13	Complete Genome
+Natrialba phage PhiCh1	114777	PRJNA517034	517034	Other	Vertoviridae	58.487	61.9	archaea	NC_054954.1/MK450543.1	94	94	2019/03/10	2021/10/11	Complete Genome
+Okra leaf curl betasatellite [India:Munthal:EL38:2006]	908121		0	Other	Tolecusatellitidae	1.352	37.9	land plants	GU111963.1	1	1	2011/01/01	2012/05/18	Complete Genome
+Pepper golden mosaic virus-[CR]	223302		0	Other	Geminiviridae	2.619	45	land plants	 DNA A:AF149227.1	4	4	1999/11/10	2003/03/07	Complete Genome
+Hollyhock leaf crumple virus satellite DNA	169696		0	Satellites	unclassified	0.741	39.1	land plants	 Unknown:NC_004092.1/AF397214.1	-	-	2002/08/02	2018/08/13	Complete Genome
+Ectromelia virus	12643		0	Other	Poxviridae	209.771	33.2	human,vertebrates	 Unknown:NC_004105.1/AF012825.2	173	173	1999/01/01	2021/10/11	Complete Genome
+Woodchuck hepatitis virus	35269		0	Other	Hepadnaviridae	3.323	44.5	vertebrates	 Unknown:NC_004107.1/M18752.1	4	4	1993/08/03	2018/08/13	Complete Genome
+Papaya leaf curl virus	53260		0	Other	Geminiviridae	2.769	42.6	land plants	 DNA A:JQ407224.1	-	-	2012/06/26	2018/12/19	Complete Genome
+Helicoverpa zea nudivirus 2	1128424		0	Other	Nudiviridae	231.621	41.9	invertebrates	 Unknown:NC_004156.2/JN418988.1	113	113	2002/08/30	2018/08/13	Complete Genome
+Bacillus phage B103	2994042		0	Other	Salasmaviridae	18.63	37.7	bacteria	 Unknown:NC_004165.1/X99260.1	17	17	1996/07/13	2021/10/11	Complete Genome
+Bacillus phage phi105	10717		0	Other	Other	39.318	42.7	bacteria	NC_048631.1/HM072038.1	52	52	2010/04/27	2021/10/11	Complete Genome
+Tomato leaf curl Vietnam virus	208177		0	Other	Geminiviridae	2.745	42.7	land plants	 DNA A:NC_004153.1/AF264063.1	6	6	2001/06/02	2018/08/13	Complete Genome
+Pepper leaf curl Bangladesh virus	223305		0	Other	Geminiviridae	2.754	43.9	land plants	 DNA A:HM007096.1	6	6	2012/04/09	2018/04/30	Complete Genome
+Vibrio phage VSKK	180503		0	Other	Inoviridae	6.834	43.5	bacteria	AF452449.2	-	6	2001/12/12	2003/08/11	Complete Genome
+Salmonella phage ST64B	175950		0	Other	Myoviridae	40.149	51	bacteria	 Unknown:NC_004313.1/AY055382.1	56	56	2002/09/30	2021/10/11	Complete Genome
+Salmonella phage ST64T	2905963		0	Other	Other	40.679	47.5	bacteria	 Unknown:NC_004348.1/AY052766.1	65	65	2002/10/22	2022/01/06	Complete Genome
+Haemophilus phage HP2	2932882		0	Other	Peduoviridae	31.508	39.9	bacteria	 Unknown:NC_003315.1/AY027935.1	37	37	2001/04/22	2022/04/07	Complete Genome
+Ageratum yellow vein Singapore alphasatellite	915293		0	Other	Alphasatellitidae	1.36	40	land plants	 Unknown:NC_003414.1/AJ416153.1	1	1	2002/02/14	2018/08/13	Complete Genome
+Taro bacilliform virus	178354		0	Other	Caulimoviridae	7.458	39.3	land plants	 Unknown:NC_004450.1/AF357836.1	3	3	2002/11/28	2018/08/13	Complete Genome
+Vibrio phage VHML	207597		0	Other	Other	43.198	50.6	bacteria	 Unknown:NC_004456.1/AY133112.1	57	57	2002/12/14	2021/10/11	Complete Genome
+Kalanchoe top-spotting virus	218387		0	Other	Caulimoviridae	7.591	47.2	land plants	 Unknown:NC_004540.1/AY180137.1	3	3	2003/01/18	2018/08/13	Complete Genome
+Tomato leaf curl Gujarat virus	219299		0	Other	Geminiviridae	5.445	42.1127	land plants	 DNA A:NC_004558.1/AY190290.1;  DNA B:NC_004559.1/AY190291.1	8	8	2003/01/28	2018/08/13	Complete Genome
+Tomato yellow leaf curl Malaga virus	219744		0	Other	Geminiviridae	2.782	41	land plants	 DNA A:NC_004569.1/AF271234.1	6	6	2001/12/27	2018/08/13	Complete Genome
+Galleria mellonella densovirus	37138		0	Other	Parvoviridae	6.039	36.4	invertebrates	 Unknown:NC_004286.1/L32896.1	2	7	1994/10/01	2018/08/13	Complete Genome
+Casphalia extranea densovirus	180586		0	Other	Parvoviridae	5.002	37.8	-	 Unknown:NC_004288.1/AF375296.1	3	3	2002/01/01	2018/08/13	Complete Genome
+Planococcus citri densovirus	159153		0	Other	Parvoviridae	5.38	37.6	invertebrates	 Unknown:NC_004289.1/AY032882.1	4	4	2002/01/16	2018/08/13	Complete Genome
+Human erythrovirus V9	72197		0	Other	Parvoviridae	5.028	42.1	human	 Unknown:NC_004295.1/AJ249437.1	6	6	2001/09/30	2018/08/13	Complete Genome
+Lactococcus phage r1t	43685		0	Other	Siphoviridae	33.35	35.5	bacteria	 Unknown:NC_004302.1/U38906.1	50	50	1996/06/05	2022/06/05	Complete Genome
+Streptococcus phage 01205	2681626		0	Other	Other	43.075	38.3	bacteria	 Unknown:NC_004303.1/U88974.1	57	57	1997/09/30	2021/10/11	Complete Genome
+Cotton leaf curl Alabad virus	222456		0	Other	Geminiviridae	2.744	42.7	land plants	 DNA A:NC_004582.1/AJ002455.1	6	6	1998/03/31	2018/08/13	Complete Genome
+Cotton leaf curl Kokhran virus	222464		0	Other	Geminiviridae	2.748	43.1	land plants	 DNA A:NC_004583.1/AJ002449.1	6	6	1998/03/31	2018/08/13	Complete Genome
+Cotton leaf curl Multan virus	223252		0	Other	Geminiviridae	2.754	43.1	land plants	 DNA A:NC_003199.1/AF363011.1	6	6	2001/06/20	2018/08/13	Complete Genome
+Tomato leaf curl New Delhi virus	223347		0	Other	Geminiviridae	5.435	42.5111	land plants	 DNA A:NC_004611.1/U15015.2;  DNA B:NC_004612.1/U15017.2	10	10	1994/09/28	2018/08/13	Complete Genome
+Tomato leaf curl Laos virus	223345		0	Other	Geminiviridae	2.748	43.3	land plants	 DNA A:NC_004613.1/AF195782.1	6	6	1999/10/26	2018/08/13	Complete Genome
+Tomato leaf curl Bangladesh virus	223344		0	Other	Geminiviridae	2.761	42.9	land plants	 DNA A:NC_004614.1/AF188481.1	6	6	1999/11/01	2018/08/13	Complete Genome
+Dubowvirus dv11	12360		0	Other	Other	43.604	34.5	bacteria	 Unknown:NC_004615.1/AF424781.1	53	53	2002/02/26	2021/10/11	Complete Genome
+Staphylococcus phage phi 12	2905946		0	Other	Other	44.97	33.3	bacteria	 Unknown:NC_004616.1/AF424782.1	49	49	2002/02/26	2022/01/06	Complete Genome
+Staphylococcus phage phi 13	2992645		0	Other	Other	42.722	33.5	bacteria	 Unknown:NC_004617.1/AF424783.1	49	49	2002/02/26	2021/10/11	Complete Genome
+Ageratum yellow vein Taiwan virus	222441		0	Other	Geminiviridae	2.734	40.9	land plants	 DNA A:NC_004627.1/AF307861.1	6	6	2000/11/06	2018/08/13	Complete Genome
+Pepper leaf curl Pakistan virus	341713		0	Other	Geminiviridae	2.858	43.1	land plants	 DNA A:DQ116878.1	-	6	2006/07/31	2006/07/31	Complete Genome
+Pseudomonas phage phiKZ	2905945		0	Other	Other	280.334	36.8	bacteria	 Unknown:NC_004629.1/AF399011.1	376	369	2002/02/28	2021/10/11	Complete Genome
+Tomato leaf curl Sri Lanka virus	223352		0	Other	Geminiviridae	2.756	42	land plants	 DNA A:NC_004647.1/AF274349.1	6	6	2000/07/04	2018/08/13	Complete Genome
+Tomato leaf curl Malaysia virus	223346		0	Other	Geminiviridae	2.754	43.2	-	 DNA A:NC_004648.1/AF327436.1	6	6	2001/03/07	2018/08/13	Complete Genome
+Tobacco leaf curl Japan virus	223332		0	Other	Geminiviridae	2.761	42.8	land plants	 DNA A:NC_004654.1/AB028604.1	6	6	2000/05/24	2018/08/13	Complete Genome
+Sida golden mosaic Costa Rica virus	223313		0	Other	Geminiviridae	5.192	45.3017	-	 DNA A:NC_004657.1/X99550.1;  DNA B:NC_004658.1/X99551.1	7	7	1996/08/14	2018/08/13	Complete Genome
+Sida golden mosaic Honduras virus	223316		0	Other	Geminiviridae	5.192	45.9	land plants	 DNA A:NC_004659.1/Y11097.1;  DNA B:NC_004660.1/Y11098.1	7	7	1997/02/18	2018/08/13	Complete Genome
+Sida yellow vein virus	223321		0	Other	Geminiviridae	5.205	46.3524	land plants	 DNA A:NC_004661.1/Y11099.1;  DNA B:NC_004662.1/Y11100.1	7	7	1997/02/18	2018/08/13	Complete Genome
+Pseudomonas phage gh-1	197783		0	Other	Autographiviridae	37.359	57.4	bacteria	NC_004665.1/AF493143.1	42	42	2003/03/26	2021/10/11	Complete Genome
+Okra yellow vein mosaic virus	227137		0	Other	Geminiviridae	2.739	43.5	land plants	 DNA A:NC_004673.1/AJ002451.1	6	6	1998/03/31	2018/08/13	Complete Genome
+Tomato curly stunt virus	128941		0	Other	Geminiviridae	2.766	44.3	land plants	 DNA A:NC_004675.1/AF261885.2	5	5	2000/08/02	2018/08/13	Complete Genome
+Rosenblumvirus rv44AHJD	204086		0	Other	Rountreeviridae	16.784	29.6	bacteria	 Unknown:NC_004678.1/AF513032.1	21	21	2003/03/31	2021/10/11	Complete Genome
+Staphylococcus phage P68	204090		0	Other	Rountreeviridae	18.227	29.3	bacteria	 Unknown:NC_004679.1/AF513033.1	22	22	2003/03/31	2021/10/11	Complete Genome
+Mycobacterium phage Cjw1	2907830		0	Other	Other	75.931	63.1	bacteria	 Unknown:NC_004681.1/AY129331.1	142	141	2003/04/01	2022/01/04	Complete Genome
+Mycobacterium phage Che9c	2907832		0	Other	Other	57.05	65.4	bacteria	 Unknown:NC_004683.1/AY129333.1	85	84	2003/04/01	2022/01/04	Complete Genome
+Mycobacterium phage Corndog	2907833		0	Other	Other	69.777	65.4	bacteria	 Unknown:NC_004685.1/AY129335.1	122	122	2003/04/01	2022/01/04	Complete Genome
+Mycobacterium phage Omega	2907835		0	Other	Other	110.865	61.4	bacteria	 Unknown:NC_004688.1/AY129338.1	239	237	2003/04/01	2022/01/04	Complete Genome
+Mycobacterium phage Barnyard	205880		0	Other	Other	70.797	57.3	bacteria	 Unknown:NC_004689.1/AY129339.1	109	109	2003/04/01	2022/05/26	Complete Genome
+Mycobacterium phage Bxz2	2907831		0	Other	Other	50.913	64.2	bacteria	NC_004682.2/AY129332.2	89	86	2003/04/01	2022/01/04	Complete Genome
+Lomovskayavirus BT1	225588		0	Other	Other	41.831	62.8	bacteria	 Unknown:NC_004664.2/AJ550940.2	56	55	2003/03/25	2021/10/11	Complete Genome
+Vibrio phage VGJ	223524		0	Other	Inoviridae	7.542	43.4	bacteria	 Unknown:NC_004736.1/AY242528.1	13	13	2003/04/15	2018/08/13	Complete Genome
+Peduovirus L413C	227940		0	Other	Peduoviridae	30.728	52.1	bacteria	 Unknown:NC_004745.1/AY251033.1	40	40	2003/04/20	2021/10/11	Complete Genome
+Lactococcus phage P335	354260		0	Other	Siphoviridae	33.613	35.5	bacteria	DQ838728.1	-	50	2008/09/10	2008/09/10	Complete Genome
+Budgerigar fledgling disease virus - 1	133789		0	Other	Polyomaviridae	4.981	48.5	vertebrates	 Unknown:NC_004764.2/AF241168.1	6	9	2000/08/08	2018/08/13	Complete Genome
+Salmonella phage epsilon15	215158		0	Other	Other	39.672	50.8	bacteria	 Unknown:NC_004775.2/AY150271.2	51	51	2003/04/30	2021/10/11	Complete Genome
+Goose hemorrhagic polyomavirus	208491		0	Other	Polyomaviridae	5.256	48.1	vertebrates	 Unknown:NC_004800.1/AY140894.1	6	6	2003/05/07	2018/08/13	Complete Genome
+Enterobacteria phage BP-4795	196242		0	Other	Other	57.93	50.6	bacteria	 Unknown:NC_004813.1/AJ556162.1	85	85	2003/05/23	2021/10/11	Complete Genome
+Fischettivirus C1	230871		0	Other	Rountreeviridae	16.687	34.6	bacteria	 Unknown:NC_004814.1/AY212251.1	20	20	2003/05/21	2022/01/04	Complete Genome
+Methanothermobacter phage psiM100	173824		0	Other	Leisingerviridae	31.007	45.7	archaea	 Unknown:NC_002628.3/AF301375.1	37	37	2000/12/13	2021/10/11	Complete Genome
+Luffa yellow mosaic virus	207240		0	Other	Geminiviridae	5.455	41.9582	land plants	 DNA A:NC_004824.1/AF509739.1;  DNA B:NC_004825.1/AF509740.1	8	8	2003/06/02	2018/08/13	Complete Genome
+Malvastrum yellow vein virus	222475		0	Other	Geminiviridae	2.731	44	land plants	 DNA A:NC_004634.1/AJ457824.1	6	6	2002/04/25	2018/08/13	Complete Genome
+Sida golden yellow vein virus-[Jamaica:Liguanea2:2008]	929766		0	Other	Geminiviridae	5.15	44.1763	land plants	 DNA A:NC_004635.2/HQ009519.1;  DNA B:NC_014799.1/HQ009520.1	6	6	2003/03/26	2018/08/13	Complete Genome
+Sida mottle virus	191460		0	Other	Geminiviridae	2.668	46.8	land plants	 DNA A:NC_004637.1/AY090555.1	6	6	2002/04/17	2018/08/13	Complete Genome
+Potato yellow mosaic Trinidad virus	223308		0	Other	Geminiviridae	5.117	43.6661	land plants	 DNA A:NC_004638.1/AF039031.1;  DNA B:NC_004644.1/AF039032.1	7	7	1998/04/02	2018/08/13	Complete Genome
+Sweet potato leaf curl Georgia virus	225752		0	Other	Geminiviridae	2.773	44.1	land plants	 DNA A:NC_004640.1/AF326775.1	6	6	2002/01/31	2018/08/13	Complete Genome
+Rhynchosia golden mosaic virus	117198		0	Other	Geminiviridae	5.155	42.5175	land plants	 DNA B:NC_010293.1/DQ356429.1;  DNA A:NC_010294.1/EU339936.1	7	7	2006/03/15	2018/08/13	Complete Genome
+Salmonella phage SP6	2907955		0	Other	Autographiviridae	43.769	47.2	bacteria	 Unknown:NC_004831.2/AY288927.2	52	52	2003/06/07	2022/01/06	Complete Genome
+Xanthomonas phage Xp10	2907956		0	Other	Other	44.373	52	bacteria	 Unknown:NC_004902.1/AY299121.1	60	60	2003/06/16	2022/01/06	Complete Genome
+Escherichia Stx1 converting phage	194948		0	Other	Other	59.866	49.7	bacteria	 Unknown:NC_004913.3/AP005153.1	166	167	2003/06/20	2021/10/11	Chromosome
+Streptococcus phage SM1	157924		0	Other	Siphoviridae	34.692	39.2	bacteria	 Unknown:NC_004996.1/AY007505.3	56	56	2000/10/10	2021/10/11	Complete Genome
+Tomato leaf curl Java virus	263001		0	Other	Geminiviridae	2.752	42.5	land plants	 DNA A:NC_005031.1/AB100304.1	6	6	2003/01/21	2018/08/13	Complete Genome
+Roseobacter phage SIO1	2905867		0	Other	Zobellviridae	39.898	46.2	bacteria	 Unknown:NC_002519.1/AF189021.1	32	32	2000/08/30	2022/01/06	Complete Genome
+Mycobacterium phage Bxz1	205877		0	Other	Other	156.102	64.8	bacteria	 Unknown:NC_004687.1/AY129337.1	253	225	2003/04/01	2021/12/01	Complete Genome
+Escherichia phage Stx2 II	194949		0	Other	Other	62.706	49.9	bacteria	 Unknown:NC_004914.3/AP005154.1	169	170	2003/06/20	2021/10/11	Chromosome
+Bacillus phage Bam35c	236750		0	Other	Tectiviridae	14.935	39.7	bacteria	 Unknown:NC_005258.1/AY257527.1	32	32	2003/09/11	2021/10/11	Complete Genome
+Aeromonas phage Aeh1	2880362		0	Other	Straboviridae	233.234	42.8	bacteria	 Unknown:NC_005260.1/AY266303.2	375	352	2003/04/30	2021/10/05	Complete Genome
+Bovine alphaherpesvirus 5	35244		0	Other	Herpesviridae	138.39	74.9	vertebrates	 Unknown:NC_005261.3/AY261359.1	72	73	2003/09/13	2018/08/13	Complete Genome
+Psittacid alphaherpesvirus 1	50294		0	Other	Herpesviridae	163.025	60.9	vertebrates	 Unknown:NC_005264.1/AY372243.1	77	77	2003/09/13	2018/08/13	Complete Genome
+Lactobacillus phage phig1e	52979		0	Other	Siphoviridae	42.259	43.1	bacteria	 Unknown:NC_004305.1/X98106.1	60	60	1997/04/03	2021/10/11	Complete Genome
+Vibrio phage VpV262	2907796		0	Other	Zobellviridae	46.012	49.5	bacteria	 Unknown:NC_003907.2/AY095314.2	67	67	2002/05/21	2022/01/31	Complete Genome
+Sulfolobus spindle-shaped virus 2	244590		0	Other	Fuselloviridae	14.796	38.5	archaea	 Unknown:NC_005265.1/AY370762.1	34	34	2003/09/10	2021/10/11	Complete Genome
+Adeno-associated virus - 3	46350		0	Other	Parvoviridae	4.726	53.9	human,vertebrates	 Unknown:NC_001729.1/U48704.1	2	2	1996/07/11	2018/08/13	Complete Genome
+Blattella germanica densovirus 1	220638		0	Other	Parvoviridae	5.335	39.6	-	 Unknown:NC_005041.2/AY189948.2	6	6	2003/02/16	2018/08/13	Complete Genome
+Aeromonas phage 44RR2.8t	2907963		0	Other	Straboviridae	173.591	43.9	bacteria	 Unknown:NC_005135.1/AY375531.1	269	252	2003/09/20	2022/01/31	Complete Genome
+Pseudomonas phage PaP3	2905964		0	Other	Other	45.503	52.2	-	 Unknown:NC_004466.2/AY078382.2	76	72	2002/12/30	2022/01/06	Complete Genome
+Salmonella phage FelixO1	77775		0	Other	Other	86.155	39	bacteria	 Unknown:NC_005282.1/AF320576.1	149	127	2003/11/30	2021/10/11	Complete Genome
+Callitrichine gammaherpesvirus 3	106331		0	Other	Herpesviridae	149.696	49.3	vertebrates	 Unknown:NC_004367.1/AF319782.2	73	72	2001/04/19	2018/08/13	Complete Genome
+Lambdapapillomavirus 2	35258		0	Other	Papillomaviridae	8.607	41.6	vertebrates	 Unknown:NC_001619.1/D55633.1	7	7	1995/06/15	2018/08/13	Complete Genome
+Human papillomavirus type 50	40539		0	Other	Papillomaviridae	7.184	36.8	human	NC_001691.1/U31790.1	7	7	1995/10/17	2018/08/13	Complete Genome
