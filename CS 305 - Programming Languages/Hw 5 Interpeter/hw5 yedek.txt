@@ -1,0 +1,15 @@
+ ((letstar-expr? e)
+      (cond
+        ;;empty let* (turning it into let)
+        ((eq? (length (cadr e)) 0) (s7 (list 'let '() (caddr e)) env))
+
+        ;;one statement inside let* (turning it into let)
+        ((eq? (length (cadr e)) 1) (s7 (list 'let (cadr e) (caddr e)) env))
+
+        ;;multiple statements (regular let*)
+        (else
+          ;;calculating one by one
+          (let*
+            ((par (s7 (car (cdaadr e)) env))
+            (newenv (cons (cons (caaadr e) par) env)))
+            (s7 (list 'let* (cdadr e) (caddr e)) newenv)))))

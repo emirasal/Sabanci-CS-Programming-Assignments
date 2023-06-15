@@ -1,0 +1,5 @@
+bison -d emirasal-hw2.y
+
+flex emirasal-hw2.flx
+
+gcc postfix.tab.c lex.yy.c -lfl

@@ -1,0 +1,162 @@
+
+    int lineNumber = 1;
+
+    char * remove_first_zeros(char * string_to_remove, int len);
+    char * remove_last_zeros(char * string_to_remove, int len);
+    char * remove_quotes(char * string_to_remove, int len);
+    char * make_null_afterIndex (char * str, int dotIndex, int len);
+
+%% 
+
+\n lineNumber++;
+
+
+"," printf("%d tCOMMA\n", lineNumber);
+["][+]["] printf("%d tPLUS\n", lineNumber);
+["][*]["]  printf("%d tMUL\n", lineNumber);
+["][+][+]["]  printf("%d tINC\n", lineNumber);
+"["  printf("%d tLBRAC\n", lineNumber);
+["][>]["]  printf("%d tGT\n", lineNumber);
+["][>][=]["]  printf("%d tGEQ\n", lineNumber);
+["][=][=]["]  printf("%d tEQUALITY\n", lineNumber);
+["][-]["]  printf("%d tMINUS\n", lineNumber);
+["][/]["]  printf("%d tDIV\n", lineNumber);
+["][-][-]["]  printf("%d tDEC\n", lineNumber);
+"]"  printf("%d tRBRAC\n", lineNumber);
+["][<]["]  printf("%d tLT\n", lineNumber);
+["][<][=]["]  printf("%d tLEQ\n", lineNumber);
+
+
+["][G][e][t]["] printf("%d tGET\n", lineNumber);
+["][S][e][t]["] printf("%d tSET\n", lineNumber);
+["][F][u][n][c][t][i][o][n]["] printf("%d tFUNCTION\n", lineNumber);
+["][P][r][i][n][t]["] printf("%d tPRINT\n", lineNumber);
+["][F][o][r]["] printf("%d tFOR\n", lineNumber);
+["][I][f]["] printf("%d tIF\n", lineNumber);
+["][R][e][t][u][r][n]["] printf("%d tRETURN\n", lineNumber);
+
+["][A-Za-z_][A-Za-z0-9_]*["] {
+
+    printf("%d tIDENT (%s)\n", lineNumber, remove_quotes(yytext, yyleng));
+
+} 
+
+
+[-]?[0-9]+[.][0-9]+ {
+
+    int dotIndex;
+    int i;
+    for (i=0; i<yyleng; i++){
+        if (yytext[i] == '.') {
+            dotIndex = i;
+            break;
+        }
+    }
+
+    char * first_part = remove_first_zeros(make_null_afterIndex(yytext, dotIndex, yyleng), dotIndex);
+    char * second_part = remove_last_zeros(yytext+dotIndex+1, yyleng -dotIndex -1);
+
+    printf("%d tNUM (%s) (%s.%s)\n", lineNumber, yytext, first_part, second_part);
+
+}
+
+
+[-]?[0-9]+ {
+
+    printf("%d tNUM (%s) (%s)\n", lineNumber, yytext, remove_first_zeros(yytext, yyleng));
+}
+
+
+['][^']*['] {
+
+    printf("%d tSTRING (%s)\n", lineNumber, remove_quotes(yytext, yyleng));
+
+    int i;
+    for (i=0; i<yyleng; i++) {
+        if (yytext[i] == '\n') lineNumber++;
+    }
+} 
+
+
+[ \t] ;
+
+. printf("%d ILLEGAL CHARACTER (%s)\n", lineNumber, yytext);
+
+
+%%
+
+
+
+char * remove_first_zeros(char * string_to_remove, int len){
+
+    int isNegative = 0;
+    if (string_to_remove[0] == '-') isNegative = 1;
+
+    int index = 0;
+    while(string_to_remove[index] == '0' || string_to_remove[index] == '-') index++;
+
+    char * retValue;
+    retValue = (char*) malloc(len * sizeof(char));
+
+    int i=0;
+    if (isNegative) {
+        retValue[i] = '-';
+        i++;
+    }
+
+    if (index == len) retValue[i] = '0';
+
+
+    while (index < len) {
+        retValue[i] = string_to_remove[index];
+        i++;
+        index++;
+    }
+    return retValue;
+}
+
+char * remove_last_zeros(char * string_to_remove, int len) {
+
+    char * retValue = (char*) malloc(len * sizeof(char));
+    memcpy(retValue, string_to_remove, len * sizeof(char));
+
+    int index = len-1;
+    while (retValue[index] == '0') {
+        retValue[index] = '\0';
+        index--;
+    }
+
+    if (index == -1) retValue[0] = '0';
+
+    return retValue;
+}
+
+
+char * remove_quotes(char * string_to_remove, int len){
+
+    string_to_remove[len-1] = '\0';
+
+    return string_to_remove + 1;
+}
+
+
+char * make_null_afterIndex (char * str, int dotIndex, int len) {
+
+    char * retValue;
+    retValue = (char*) malloc(len * sizeof(char));
+    int i;
+    for (i=0; i<len; i++){
+        retValue[i] = str[i];
+    }
+
+    for(i=dotIndex; i<len; i++){
+        retValue[i] = '\0';
+    }
+    return retValue;
+}
+
+
+int main(){
+    yylex();
+    return(0);
+}
