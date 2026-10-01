@@ -1,0 +1,48 @@
+
+<style>
+    div.outerdiv{
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+    }
+    .main{
+        border: 5px solid black;
+        text-align: center;
+        width: 30%;
+        background-color: #E3E3E3;
+    }
+    .t{
+        margin: 7px;
+        font-size: 20px;
+    }
+    .submit-btn{
+        margin: 30px;
+        background: #B9E587;
+        padding: .8rem;
+        color: black;
+        border: 0;
+        font-size: 20px;
+    }
+    .submit-btn:hover{
+        color: whitesmoke;
+        cursor: pointer;
+    }
+    .input{
+        border: 2px solid;
+        font-size: 18px;
+    }
+</style>
+
+
+<div class="outerdiv">
+<form class="main" action="return-book.php" method="POST">
+    <h1>Returning a Book</h1>
+    <div class="t">Enter your E-mail:</div>  
+    <input class="input" type="text" id="email" name="email">
+
+    <div class="t"><b>Title</b> of the book you want to return:</div>  
+    <input class="input" type="text" id="title" name="title"><br>
+
+    <input class="submit-btn" type="submit" value="Submit">
+</form>
+</div>

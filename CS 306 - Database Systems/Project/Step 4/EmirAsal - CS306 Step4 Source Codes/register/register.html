@@ -1,0 +1,60 @@
+<head>
+<style>
+    div.outerdiv{
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+    }
+    .main{
+        border: 5px solid black;
+        text-align: center;
+        width: 30%;
+        background-color: #E3E3E3;
+    }
+    .t{
+        margin: 7px;
+    }
+    .submit-btn{
+        margin: 30px;
+        background: #B9E587;
+        padding: .8rem;
+        color: black;
+        border: 0;
+        font-size: 20px;
+    }
+    .submit-btn:hover{
+        color: whitesmoke;
+        cursor: pointer;
+    }
+    .input{
+        border: 2px solid;
+    }
+
+</style>
+</head>
+<body>
+<div class="outerdiv">
+<form class="main" action="register.php" method="POST">
+    <h1>Register</h1>
+    <div class="t"> Full Name:</div>   
+    <input class="input" type="text" id="name" name="name">
+
+    <div class="t"> E-mail:</div>    
+    <input class="input" type="text" id="email" name="email">
+
+    <div class="t"> Password:</div>   
+    <input class="input" type="password" id="password" name="password">
+
+    <div class="t"> Phone-number:</div> 
+    <input class="input" type="text" id="p_num" name="p_num">
+
+    <div class="t"> Birth Year:</div> 
+    <input class="input" type="text" id="birth_year" name="birth_year">
+
+    <div class="t"> Address:</div>  
+    <textarea class="input" id="address" name="address"></textarea><br>
+
+    <input class="submit-btn" type="submit" value="Submit">
+</form>
+</div>
+</body>

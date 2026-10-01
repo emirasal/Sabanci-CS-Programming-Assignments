@@ -1,0 +1,63 @@
+<head>
+<style>
+    div.outerdiv{
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+    }
+    .main{
+        border: 5px solid black;
+        text-align: center;
+        width: 30%;
+        background-color: #E3E3E3;
+    }
+    .t{
+        margin: 7px;
+        font-size: 20px;
+    }
+    .submit-btn{
+        margin: 30px;
+        background: #B9E587;
+        padding: .8rem;
+        color: black;
+        border: 0;
+        font-size: 20px;
+    }
+    .submit-btn:hover{
+        color: whitesmoke;
+        cursor: pointer;
+    }
+    .input{
+        border: 2px solid;
+        font-size: 20px;
+    }
+
+</style>
+</head>
+
+<body>
+<div class="outerdiv">
+<form class="main" action="donate-book.php" method="POST">
+    <h1>Book Donation</h1>
+    <div class="t">Title:</div>   
+    <input class="input" type="text" id="title" name="title">
+
+    <div class="t">Author:</div>    
+    <input class="input" type="text" id="author" name="author">
+
+    <div class="t">Genre:</div>  
+    <input class="input" type="text" id="genre" name="genre">
+
+    <div class="t">Pages:</div> 
+    <input class="input" type="number" id="pages" name="pages">
+
+    <div class="t">Publisher:</div> : 
+    <input class="input" type="text" id="publisher" name="publisher">
+
+    <div class="t">Published Year:</div> 
+    <input class="input" type="text" id="publish_date" name="publish_date"><br>
+
+    <input class="submit-btn" type="submit" value="Donate">
+</form>
+</div>
+</body>
