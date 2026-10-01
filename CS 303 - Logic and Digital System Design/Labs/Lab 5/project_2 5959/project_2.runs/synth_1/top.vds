@@ -1,0 +1,329 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon May 16 18:29:10 2022
+# Process ID: 12892
+# Current directory: C:/Users/Emir/Desktop/Lab 5/project_2/project_2.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: C:/Users/Emir/Desktop/Lab 5/project_2/project_2.runs/synth_1/top.vds
+# Journal file: C:/Users/Emir/Desktop/Lab 5/project_2/project_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
+Command: synth_design -top top -part xc7a100tcsg324-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a100t'
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 11652 
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 690.016 ; gain = 178.461
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'top' [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/top.v:23]
+INFO: [Synth 8-6157] synthesizing module 'down59n' [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:192]
+INFO: [Synth 8-6157] synthesizing module 'downcounter_new' [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:60]
+INFO: [Synth 8-6157] synthesizing module 'DIG_D_FF_AS_1bit' [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:6]
+	Parameter Default bound to: 0 - type: integer 
+INFO: [Synth 8-5837] Detected dual asynchronous set and preset for register state_reg in module DIG_D_FF_AS_1bit. This is not a recommended register style for Xilinx devices  [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:20]
+INFO: [Synth 8-6155] done synthesizing module 'DIG_D_FF_AS_1bit' (1#1) [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:6]
+INFO: [Synth 8-6157] synthesizing module 'Mux_4x1' [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:38]
+INFO: [Synth 8-226] default block is never used [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:48]
+INFO: [Synth 8-6155] done synthesizing module 'Mux_4x1' (2#1) [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:38]
+INFO: [Synth 8-6155] done synthesizing module 'downcounter_new' (3#1) [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:60]
+INFO: [Synth 8-6155] done synthesizing module 'down59n' (4#1) [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/down59n.v:192]
+INFO: [Synth 8-6157] synthesizing module 'clk_divider' [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/top.v:64]
+INFO: [Synth 8-6155] done synthesizing module 'clk_divider' (5#1) [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/top.v:64]
+INFO: [Synth 8-6157] synthesizing module 'bin2seven' [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/top.v:86]
+INFO: [Synth 8-226] default block is never used [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/top.v:92]
+INFO: [Synth 8-6155] done synthesizing module 'bin2seven' (6#1) [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/top.v:86]
+WARNING: [Synth 8-567] referenced signal 'units' should be on the sensitivity list [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/top.v:52]
+WARNING: [Synth 8-567] referenced signal 'tens' should be on the sensitivity list [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/top.v:52]
+INFO: [Synth 8-6155] done synthesizing module 'top' (7#1) [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/sources_1/new/top.v:23]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:08 ; elapsed = 00:00:08 . Memory (MB): peak = 754.156 ; gain = 242.602
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:08 ; elapsed = 00:00:09 . Memory (MB): peak = 754.156 ; gain = 242.602
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:08 ; elapsed = 00:00:09 . Memory (MB): peak = 754.156 ; gain = 242.602
+---------------------------------------------------------------------------------
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Parsing XDC File [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/constrs_1/new/down59n.xdc]
+Finished Parsing XDC File [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/constrs_1/new/down59n.xdc]
+INFO: [Project 1-236] Implementation specific constraints were found while reading constraint file [C:/Users/Emir/Desktop/Lab 5/project_2/project_2.srcs/constrs_1/new/down59n.xdc]. These constraints will be ignored for synthesis but will be used in implementation. Impacted constraints are listed in the file [.Xil/top_propImpl.xdc].
+Resolution: To avoid this warning, move constraints listed in [.Xil/top_propImpl.xdc] to another XDC file and exclude this new file from synthesis with the used_in_synthesis property (File Properties dialog in GUI) and re-run elaboration/synthesis.
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 867.207 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.007 . Memory (MB): peak = 867.207 ; gain = 0.000
+---------------------------------------------------------------------------------
+Finished Constraint Validation : Time (s): cpu = 00:00:17 ; elapsed = 00:00:19 . Memory (MB): peak = 867.207 ; gain = 355.652
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Loading Part and Timing Information
+---------------------------------------------------------------------------------
+Loading part: xc7a100tcsg324-1
+---------------------------------------------------------------------------------
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:17 ; elapsed = 00:00:19 . Memory (MB): peak = 867.207 ; gain = 355.652
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Applying 'set_property' XDC Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:17 ; elapsed = 00:00:19 . Memory (MB): peak = 867.207 ; gain = 355.652
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:18 ; elapsed = 00:00:20 . Memory (MB): peak = 867.207 ; gain = 355.652
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start RTL Component Statistics 
+---------------------------------------------------------------------------------
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input      2 Bit       Adders := 1     
++---Registers : 
+	                2 Bit    Registers := 1     
+	                1 Bit    Registers := 8     
++---Muxes : 
+	   4 Input      8 Bit        Muxes := 1     
+	   4 Input      4 Bit        Muxes := 1     
+	   4 Input      1 Bit        Muxes := 8     
+---------------------------------------------------------------------------------
+Finished RTL Component Statistics 
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start RTL Hierarchical Component Statistics 
+---------------------------------------------------------------------------------
+Hierarchical RTL Component report 
+Module top 
+Detailed RTL Component Info : 
++---Adders : 
+	   2 Input      2 Bit       Adders := 1     
++---Registers : 
+	                2 Bit    Registers := 1     
++---Muxes : 
+	   4 Input      8 Bit        Muxes := 1     
+	   4 Input      4 Bit        Muxes := 1     
+Module DIG_D_FF_AS_1bit 
+Detailed RTL Component Info : 
++---Registers : 
+	                1 Bit    Registers := 1     
+Module Mux_4x1 
+Detailed RTL Component Info : 
++---Muxes : 
+	   4 Input      1 Bit        Muxes := 1     
+---------------------------------------------------------------------------------
+Finished RTL Hierarchical Component Statistics
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Part Resource Summary
+---------------------------------------------------------------------------------
+Part Resources:
+DSPs: 240 (col length:80)
+BRAMs: 270 (col length: RAMB18 80 RAMB36 40)
+---------------------------------------------------------------------------------
+Finished Part Resource Summary
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Cross Boundary and Area Optimization
+---------------------------------------------------------------------------------
+Warning: Parallel synthesis criteria is not met 
+WARNING: [Synth 8-3917] design top has port AN[7] driven by constant 1
+WARNING: [Synth 8-3917] design top has port AN[6] driven by constant 1
+WARNING: [Synth 8-3917] design top has port AN[5] driven by constant 1
+WARNING: [Synth 8-3917] design top has port AN[4] driven by constant 1
+---------------------------------------------------------------------------------
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:20 ; elapsed = 00:00:22 . Memory (MB): peak = 867.207 ; gain = 355.652
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Applying XDC Timing Constraints
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:32 ; elapsed = 00:00:34 . Memory (MB): peak = 867.207 ; gain = 355.652
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Timing Optimization
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Timing Optimization : Time (s): cpu = 00:00:32 ; elapsed = 00:00:34 . Memory (MB): peak = 867.207 ; gain = 355.652
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Technology Mapping
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Technology Mapping : Time (s): cpu = 00:00:32 ; elapsed = 00:00:34 . Memory (MB): peak = 867.207 ; gain = 355.652
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Flattening Before IO Insertion
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Final Netlist Cleanup
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished IO Insertion : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 872.922 ; gain = 361.367
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Renaming Generated Instances
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 872.922 ; gain = 361.367
+---------------------------------------------------------------------------------
+
+Report RTL Partitions: 
++-+--------------+------------+----------+
+| |RTL Partition |Replication |Instances |
++-+--------------+------------+----------+
++-+--------------+------------+----------+
+---------------------------------------------------------------------------------
+Start Rebuilding User Hierarchy
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 872.922 ; gain = 361.367
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Ports
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 872.922 ; gain = 361.367
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 872.922 ; gain = 361.367
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Renaming Generated Nets
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 872.922 ; gain = 361.367
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Writing Synthesis Report
+---------------------------------------------------------------------------------
+
+Report BlackBoxes: 
++-+--------------+----------+
+| |BlackBox name |Instances |
++-+--------------+----------+
++-+--------------+----------+
+
+Report Cell Usage: 
++------+-------+------+
+|      |Cell   |Count |
++------+-------+------+
+|1     |BUFG   |     1|
+|2     |CARRY4 |     7|
+|3     |LUT1   |     4|
+|4     |LUT2   |     6|
+|5     |LUT3   |     3|
+|6     |LUT4   |     5|
+|7     |LUT5   |     2|
+|8     |LUT6   |     7|
+|9     |FDCE   |    28|
+|10    |FDPE   |     8|
+|11    |IBUF   |     2|
+|12    |OBUF   |    15|
++------+-------+------+
+
+Report Instance Areas: 
++------+--------------------------+-------------------+------+
+|      |Instance                  |Module             |Cells |
++------+--------------------------+-------------------+------+
+|1     |top                       |                   |    88|
+|2     |  mycounter               |down59n            |    27|
+|3     |    downcounter_new_i0    |downcounter_new    |     9|
+|4     |      DIG_D_FF_AS_1bit_i0 |DIG_D_FF_AS_1bit_4 |     2|
+|5     |      DIG_D_FF_AS_1bit_i2 |DIG_D_FF_AS_1bit_5 |     1|
+|6     |      DIG_D_FF_AS_1bit_i4 |DIG_D_FF_AS_1bit_6 |     4|
+|7     |      DIG_D_FF_AS_1bit_i6 |DIG_D_FF_AS_1bit_7 |     2|
+|8     |    downcounter_new_i1    |downcounter_new_0  |    18|
+|9     |      DIG_D_FF_AS_1bit_i0 |DIG_D_FF_AS_1bit   |     2|
+|10    |      DIG_D_FF_AS_1bit_i2 |DIG_D_FF_AS_1bit_1 |     8|
+|11    |      DIG_D_FF_AS_1bit_i4 |DIG_D_FF_AS_1bit_2 |     3|
+|12    |      DIG_D_FF_AS_1bit_i6 |DIG_D_FF_AS_1bit_3 |     5|
+|13    |  mydivider               |clk_divider        |    35|
++------+--------------------------+-------------------+------+
+---------------------------------------------------------------------------------
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 872.922 ; gain = 361.367
+---------------------------------------------------------------------------------
+Synthesis finished with 0 errors, 0 critical warnings and 4 warnings.
+Synthesis Optimization Runtime : Time (s): cpu = 00:00:23 ; elapsed = 00:00:34 . Memory (MB): peak = 872.922 ; gain = 248.316
+Synthesis Optimization Complete : Time (s): cpu = 00:00:35 ; elapsed = 00:00:38 . Memory (MB): peak = 872.922 ; gain = 361.367
+INFO: [Project 1-571] Translating synthesized netlist
+INFO: [Netlist 29-17] Analyzing 7 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 892.555 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+INFO: [Common 17-83] Releasing license: Synthesis
+29 Infos, 6 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:43 ; elapsed = 00:00:48 . Memory (MB): peak = 892.555 ; gain = 600.125
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 892.555 ; gain = 0.000
+WARNING: [Constraints 18-5210] No constraints selected for write.
+Resolution: This message can indicate that there are no constraints for the design, or it can indicate that the used_in flags are set such that the constraints are ignored. This later case is used when running synth_design to not write synthesis constraints to the resulting checkpoint. Instead, project constraints are read when the synthesized design is opened.
+INFO: [Common 17-1381] The checkpoint 'C:/Users/Emir/Desktop/Lab 5/project_2/project_2.runs/synth_1/top.dcp' has been generated.
+INFO: [runtcl-4] Executing : report_utilization -file top_utilization_synth.rpt -pb top_utilization_synth.pb
+INFO: [Common 17-206] Exiting Vivado at Mon May 16 18:30:03 2022...
