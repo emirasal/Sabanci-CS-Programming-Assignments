@@ -1,0 +1,84 @@
+.myGigs {
+  display: flex;
+  justify-content: center;
+  color: #555;
+
+  .container {
+    width: 1400px;
+    padding: 50px 0px;
+
+    .title {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      button {
+        background-color: #00d9ff;
+        color: white;
+        font-weight: 500;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+
+        &:hover {
+          background-color: darken(#00d9ff, 10%);
+        }
+      }
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse; // Add this for spacing
+      margin-top: 20px; // Add some space between title and table
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1); // Soft shadow for depth
+      border-radius: 8px; // Rounded corners for the table
+      overflow: hidden; // Ensures the border-radius applies
+
+      th, td {
+        padding: 15px; // More padding for a spacious look
+        text-align: left;
+        border-bottom: 1px solid #ddd; // Light border for separation
+      }
+
+      th {
+        background-color: #f0f0f0; // Light grey background for headers
+        color: #333; // Darker text for contrast
+        font-weight: 600; // Slightly bolder
+      }
+
+      tr {
+        &:nth-child(even) {
+          background-color: #f9f9f9; // Slightly different shade for even rows
+        }
+
+        &:hover {
+          background-color: #eef9ff; // Hover effect for rows
+        }
+      }
+
+      .image, .delete {
+        width: auto;
+        height: auto;
+        max-width: 50px; // Max width for images
+        max-height: 50px; // Max height for images, adjust as needed
+        object-fit: cover;
+        margin-right: 10px; // Space between image and text or icon
+      }
+
+      .delete {
+        cursor: pointer;
+        transition: transform 0.2s ease;
+        max-height: 30px;
+        &:hover {
+          transform: scale(1.1); // Slight zoom on hover
+        }
+      }
+
+      sup {
+        font-size: smaller; // Adjusted for better readability
+      }
+    }
+  }
+}

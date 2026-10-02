@@ -1,0 +1,88 @@
+.orders {
+  display: flex;
+  justify-content: center;
+  color: #555;
+
+  .container {
+    width: 1400px;
+    padding: 50px 0px;
+
+    .title {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      h1 {
+        margin: 0; // Ensure the title aligns nicely with the rest of the content
+      }
+
+      button {
+        background-color: #1dbf73; // Keeping the unique button color for Orders
+        color: white;
+        font-weight: 500;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+
+        &:hover {
+          background-color: darken(#1dbf73, 10%);
+        }
+      }
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      overflow: hidden;
+
+      th, td {
+        padding: 15px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+      }
+
+      th {
+        background-color: #f0f0f0;
+        color: #333;
+        font-weight: 600;
+      }
+
+      tr {
+        &:nth-child(even) {
+          background-color: #f9f9f9;
+        }
+
+        &:hover {
+          background-color: #eef9ff;
+        }
+      }
+
+      .image, .message {
+        width: auto;
+        height: auto;
+        max-width: 50px; // Adjust for consistency
+        max-height: 50px; // Make sure images and icons are visually balanced
+        object-fit: cover;
+        margin-right: 10px;
+      }
+
+      .message {
+        cursor: pointer;
+        transition: transform 0.2s ease;
+        max-height: 30px;
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+
+      sup {
+        font-size: smaller;
+      }
+    }
+  }
+}
