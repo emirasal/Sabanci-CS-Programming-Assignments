@@ -1,0 +1,47 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.footer{
+    margin-top: 50%;
+}
+
+.productsContainer {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.search-bar{
+    width: 100%;
+    max-width: 480px;
+    max-height: 80px;
+    background: #ECECEC;
+    display: flex;
+    border-radius: 60px;
+    padding: 10px 20px;
+}
+
+.search-bar input {
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 24px 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.search-bar button img{
+    width: 25px;
+}
+.search-bar button {
+    border: 0;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background: #C9FFC3;
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+.navbar {
+  background: #C9FFC3;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3rem;
+  top: 0;
+  z-index: 999;
+}
+
+.navbar-logo {
+  color: #242424;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  margin-right: 40rem;
+}
+
+.navbar-items{
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #525252;
+  margin: 20px;
+}
